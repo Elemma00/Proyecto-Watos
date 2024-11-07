@@ -1,0 +1,19 @@
+PREFIX ex: <http://example.org/trends#>
+
+CONSTRUCT {
+  ?record a ex:TrendRecord ;
+          ex:location ?location ;
+          ex:year ?year ;
+          ex:category ?category ;
+          ex:rank ?rank ;
+          ex:query ?query .
+}
+FROM <file:trends.csv#encoding=utf-8>
+WHERE {
+  BIND(IRI(CONCAT("http://example.org/trends/record/", STRUUID())) AS ?record)
+  BIND(?location AS ?location)
+  BIND(?year AS ?year)
+  BIND(?category AS ?category)
+  BIND(?rank AS ?rank)
+  BIND(?query AS ?query)
+}
