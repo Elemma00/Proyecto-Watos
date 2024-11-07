@@ -10,7 +10,7 @@ CONSTRUCT {
 }
 FROM <file:trends.csv#encoding=utf-8>
 WHERE {
-  BIND(IRI(CONCAT("http://example.org/trends/record/", STRUUID())) AS ?record)
+  BIND(IRI(CONCAT("http://example.org/trends/record/", ENCODE_FOR_URI(?query))) AS ?record)
   BIND(?location AS ?location)
   BIND(?year AS ?year)
   BIND(?category AS ?category)
