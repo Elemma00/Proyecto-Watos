@@ -1,0 +1,4613 @@
+@prefix ex: <http://example.org/trends#> .
+
+<http://example.org/trends/record/0005e6b5-3d2f-4c85-bada-f6549c62bd0b> a ex:TrendRecord ;
+    ex:category "News Outlets" ;
+    ex:location "Global" ;
+    ex:query "CNN" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q48340> .
+    ex:rank "1" ;
+    ex:year "2004" .
+
+<http://example.org/trends/record/0007d8e6-49b0-4434-92c7-bdc2e077dd18> a ex:TrendRecord ;
+    ex:category "TV" ;
+    ex:location "Brazil" ;
+    ex:query "CNN Brasil" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q61037218> .
+    ex:rank "2" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/0009e728-827a-4c82-92f5-a368e89311fc> a ex:TrendRecord ;
+    ex:category "KİŞİLER" ;
+    ex:location "Turkey" ;
+    ex:query "NIL ERKOCLAR" ;
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/00101e76-c1d1-4e96-a525-9c9cc75e2fbe> a ex:TrendRecord ;
+    ex:category "การซื้อสินค้า" ;
+    ex:location "Thailand" ;
+    ex:query "ซื้อ วันdtac" ;
+    ex:rank "5" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/00121ac9-689e-4131-8442-ce022e9a186e> a ex:TrendRecord ;
+    ex:category "Teknologia" ;
+    ex:location "Finland" ;
+    ex:query "iPhone 6s" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q20962117> .
+    ex:rank "2" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/0013e2ee-b9d8-4a7f-9b0d-98bfb15160f3> a ex:TrendRecord ;
+    ex:category "三重" ;
+    ex:location "Japan" ;
+    ex:query "伊勢神宮" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q687168> .
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/0014bf5d-355b-4274-a06e-0cb1e2952f3e> a ex:TrendRecord ;
+    ex:category "Categorie: financieel (snelst stijgend)" ;
+    ex:location "Netherlands" ;
+    ex:query "Schenkingen" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q55336800> .
+    ex:rank "2" ;
+    ex:year "2009" .
+
+<http://example.org/trends/record/00203002-cffe-4624-bd45-e8ec4210f624> a ex:TrendRecord ;
+    ex:category "الأبحاث الرياضية" ;
+    ex:location "Saudi Arabia" ;
+    ex:query "سلطان البرقان" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q7636629> .
+    ex:rank "4" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/0022b399-bf3b-434b-981b-316289b78a98> a ex:TrendRecord ;
+    ex:category "Tendencias 2018" ;
+    ex:location "Costa Rica" ;
+    ex:query "Avicii" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q505476> .
+    ex:rank "4" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/0023bacb-2b42-46a5-8303-45f73abe5162> a ex:TrendRecord ;
+    ex:category "บุคคล" ;
+    ex:location "Thailand" ;
+    ex:query "กัปตัน ชลธร" ;
+    ex:rank "2" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/0023eefc-925b-4104-ac0d-e5908f69dc38> a ex:TrendRecord ;
+    ex:category "자동차" ;
+    ex:location "South Korea" ;
+    ex:query "티볼리" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q159605> .
+    ex:rank "1" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/0024863f-e5ae-4173-b020-96fa01c2c77b> a ex:TrendRecord ;
+    ex:category "Donations" ;
+    ex:location "United States" ;
+    ex:query "Donate to Obama" ;
+    ex:rank "1" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/0025b272-2ec6-4969-aaea-fbd5896bcb83> a ex:TrendRecord ;
+    ex:category "Trending questions (How to...)" ;
+    ex:location "Nigeria" ;
+    ex:query "How to start a blog" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q48283147> .
+    ex:rank "2" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/00276e5a-329c-4277-ab9f-d32c95b598d4> a ex:TrendRecord ;
+    ex:category "Athletes" ;
+    ex:location "Global" ;
+    ex:query "Adrian Peterson" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q373983> .
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/002dc55c-cb5a-4389-939a-3d03ff7329ee> a ex:TrendRecord ;
+    ex:category "Trending Songs" ;
+    ex:location "Singapore" ;
+    ex:query "Señorita" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q64729088> .
+    ex:rank "1" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/003067d6-88a7-49b5-a478-ca41db8e37c3> a ex:TrendRecord ;
+    ex:category "Aplicativos" ;
+    ex:location "Brazil" ;
+    ex:query "Whatsapp" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1049511> .
+    ex:rank "2" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/003366e4-8ff4-43ed-8f00-24f6ab46abf4> a ex:TrendRecord ;
+    ex:category "Жылдың телешоуы/ТВ-шоу года" ;
+    ex:location "Kazakhstan" ;
+    ex:query "Битва экстрасенсов 19 сезон" ;
+    ex:rank "4" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/0034414e-2bcc-4c93-9eb4-a254f4678c7c> a ex:TrendRecord ;
+    ex:category "ประเภทอาหาร" ;
+    ex:location "Thailand" ;
+    ex:query "ส้มตำ" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1343820> .
+    ex:rank "3" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/003601f1-dd3e-4c11-ad6b-d7f3e7a4e11d> a ex:TrendRecord ;
+    ex:category "Potraviny" ;
+    ex:location "Czechia" ;
+    ex:query "Cuketové placky" ;
+    ex:rank "5" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/0036f0ec-831f-4030-9d49-a0ff05b3d5a9> a ex:TrendRecord ;
+    ex:category "Glasbeniki" ;
+    ex:location "Slovenia" ;
+    ex:query "Queen" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q15862> .
+    ex:rank "4" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/003704cd-400c-45ce-a357-c9a2cfb1b7e1> a ex:TrendRecord ;
+    ex:category "Apa Itu..." ;
+    ex:location "Indonesia" ;
+    ex:query "Batu Bacan" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q97229720> .
+    ex:rank "3" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/003dd464-ca4e-4e4e-8340-e0f91f78cb1f> a ex:TrendRecord ;
+    ex:category "Smutné odchody" ;
+    ex:location "Slovakia" ;
+    ex:query "Alan Rickman" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q106481> .
+    ex:rank "5" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/003f1984-9cc4-4798-9213-59502104d7d2> a ex:TrendRecord ;
+    ex:category "Skokani" ;
+    ex:location "Slovakia" ;
+    ex:query "Iveta Bartošová" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q3270208> .
+    ex:rank "2" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/0040d324-2ad2-4669-a956-18b0dc6f7337> a ex:TrendRecord ;
+    ex:category "Hybrid and Electric Cars" ;
+    ex:location "United States" ;
+    ex:query "Fisker Karma" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1420902> .
+    ex:rank "2" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/004187d5-42d6-4369-a3d4-0998d3774931> a ex:TrendRecord ;
+    ex:category "Diets" ;
+    ex:location "United States" ;
+    ex:query "20/20 Diet" ;
+    ex:rank "1" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/0048693c-e2c2-40f0-a926-bfc9b84e9eeb> a ex:TrendRecord ;
+    ex:category "Novelas, series y programas TV" ;
+    ex:location "Guatemala" ;
+    ex:query "Vis a vis" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q19413951> .
+    ex:rank "4" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/004d6e15-8876-445a-b441-84f256642baf> a ex:TrendRecord ;
+    ex:category "Trending Celebrities" ;
+    ex:location "Egypt" ;
+    ex:query "كريستن ستيوارت" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q126599> .
+    ex:rank "3" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/004ff8a6-a856-4576-94a4-fbeeb4a6fd02> a ex:TrendRecord ;
+    ex:category "Musicians" ;
+    ex:location "United Kingdom" ;
+    ex:query "R Kelly" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q42861892> .
+    ex:rank "1" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/0052a67a-6214-428e-8207-3d81705bc904> a ex:TrendRecord ;
+    ex:category "Who is ..." ;
+    ex:location "Ghana" ;
+    ex:query "Who is Dangotte" ;
+    ex:rank "5" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/0052abdb-fc83-4e1c-9315-8219e1332585> a ex:TrendRecord ;
+    ex:category "New Products" ;
+    ex:location "Global" ;
+    ex:query "Nokia 5510" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1761216> .
+    ex:rank "5" ;
+    ex:year "2001" .
+
+<http://example.org/trends/record/005515d7-4dfc-45a5-8590-16a74a76cec8> a ex:TrendRecord ;
+    ex:category "World Cup Matches" ;
+    ex:location "Global" ;
+    ex:query "Brazil vs Croatia" ;
+    ex:rank "5" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/0057aaa8-caf8-46c7-a6b6-236f701ecd1b> a ex:TrendRecord ;
+    ex:category "Passings" ;
+    ex:location "Nigeria" ;
+    ex:query "Abiola Ajimobi" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q4667894> .
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/005a1866-2200-4632-a854-8b40177926fa> a ex:TrendRecord ;
+    ex:category "International News" ;
+    ex:location "Canada" ;
+    ex:query "Brett Kavanaugh" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q4962244> .
+    ex:rank "5" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/005da248-b2de-4f10-82ae-558a679de506> a ex:TrendRecord ;
+    ex:category "Top trending sport" ;
+    ex:location "Denmark" ;
+    ex:query "Tottenham" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q18741> .
+    ex:rank "5" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/0062c2ac-ee7f-4c21-a3aa-62a3e737a475> a ex:TrendRecord ;
+    ex:category "Jak... ?" ;
+    ex:location "Poland" ;
+    ex:query "Jak głosować" ;
+    ex:rank "2" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/006359fe-43e2-4d7b-8af1-ab0c5332ef7b> a ex:TrendRecord ;
+    ex:category "○○はいつ？" ;
+    ex:location "Japan" ;
+    ex:query "七五三 いつ" ;
+    ex:rank "2" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/00646d07-c461-4688-a787-8319d1ac7267> a ex:TrendRecord ;
+    ex:category "Songs (Lyrics)" ;
+    ex:location "Philippines" ;
+    ex:query "Dessert" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q182940> .
+    ex:rank "4" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/0068ed54-988d-4837-96dc-1ce3513e4be8> a ex:TrendRecord ;
+    ex:category "الأبحاث" ;
+    ex:location "Egypt" ;
+    ex:query "Pokemon Go" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q20966579> .
+    ex:rank "5" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/0069836b-3254-45a8-92f1-388f7d9c0c14> a ex:TrendRecord ;
+    ex:category "Qué" ;
+    ex:location "Uruguay" ;
+    ex:query "Qué pasó el día que nací" ;
+    ex:rank "4" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/0069a84b-b4ed-456b-8a6d-9cf90c266b5a> a ex:TrendRecord ;
+    ex:category "Top 'John' Searches" ;
+    ex:location "New Zealand" ;
+    ex:query "St John" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q65953328> .
+    ex:rank "2" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/006b1499-1b4d-4ec6-a7ee-a011facd912a> a ex:TrendRecord ;
+    ex:category "Where is...?" ;
+    ex:location "Philippines" ;
+    ex:query "Where is Palm Beach Resort?" ;
+    ex:rank "3" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/006b4d51-970a-4013-b4cd-c0898692c29f> a ex:TrendRecord ;
+    ex:category "Tìm kiếm nổi bật 2016" ;
+    ex:location "Vietnam" ;
+    ex:query "Chúng ta không thuộc về nhau" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q30920734> .
+    ex:rank "3" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/0071fa58-329e-4df8-b25f-54cb2be0aecf> a ex:TrendRecord ;
+    ex:category "Male Celebrities" ;
+    ex:location "United Kingdom" ;
+    ex:query "Charlie Sheen" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q103939> .
+    ex:rank "4" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/00724d94-03c5-4a29-b3e2-e566b5b96b2f> a ex:TrendRecord ;
+    ex:category "Séries" ;
+    ex:location "Brazil" ;
+    ex:query "La Casa de Papel" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q29647346> .
+    ex:rank "1" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/0072fe85-37e5-4df6-aaae-73921fbc229f> a ex:TrendRecord ;
+    ex:category "Loss" ;
+    ex:location "Canada" ;
+    ex:query "Nipsey Hussle" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q2073970> .
+    ex:rank "2" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/00743ea9-94e5-4df3-bafd-e313a1e1a58f> a ex:TrendRecord ;
+    ex:category "Canciones" ;
+    ex:location "Costa Rica" ;
+    ex:query "Bajito" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q49863059> .
+    ex:rank "4" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/0074df05-1db8-438d-8eae-9cb813fd0672> a ex:TrendRecord ;
+    ex:category "人物" ;
+    ex:location "Hong Kong" ;
+    ex:query "萬綺雯" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q6214493> .
+    ex:rank "5" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/008190b6-2dca-441f-a251-b87c7ffa1836> a ex:TrendRecord ;
+    ex:category "Jeg-vil-vite" ;
+    ex:location "Norway" ;
+    ex:query "Kalender 2015" ;
+    ex:rank "1" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/0081d86d-0ec3-4e13-bd32-5b4a24ba6d66> a ex:TrendRecord ;
+    ex:category "Kännykät" ;
+    ex:location "Finland" ;
+    ex:query "Lumia 920" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q235642> .
+    ex:rank "4" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/008a574e-cc5d-4e29-b448-8b4017ef98c3> a ex:TrendRecord ;
+    ex:category "Biglietti" ;
+    ex:location "Italy" ;
+    ex:query "Finale Champions League" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q46569648> .
+    ex:rank "4" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/0090986d-517b-454e-b3c6-74f5907224ab> a ex:TrendRecord ;
+    ex:category "Retirements" ;
+    ex:location "Global" ;
+    ex:query "Sammy Sosa" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q455117> .
+    ex:rank "3" ;
+    ex:year "2006" .
+
+<http://example.org/trends/record/00944765-4e22-4575-9cc5-2e3a246f27eb> a ex:TrendRecord ;
+    ex:category "Zahraničné osobnosti" ;
+    ex:location "Slovakia" ;
+    ex:query "Jorge Bergoglio" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q450675> .
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/0098592e-503e-4493-992e-7f9ff39ea219> a ex:TrendRecord ;
+    ex:category "Deportistas" ;
+    ex:location "Mexico" ;
+    ex:query "Canelo Álvarez" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q2117769> .
+    ex:rank "4" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/009bbc7b-23c8-4298-aedf-ab907cecd654> a ex:TrendRecord ;
+    ex:category "Планы года (начать...)" ;
+    ex:location "Russia" ;
+    ex:query "Свое дело женщине" ;
+    ex:rank "1" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/009bfef1-f2aa-4a85-91b7-8e958b1eae02> a ex:TrendRecord ;
+    ex:category "אירועי החדשות" ;
+    ex:location "Israel" ;
+    ex:query "אלנבי 40" ;
+    ex:rank "1" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/009c379c-2ecf-4bb6-ad86-3f967fe8a0ae> a ex:TrendRecord ;
+    ex:category "Receptek" ;
+    ex:location "Hungary" ;
+    ex:query "Karaj recept" ;
+    ex:rank "5" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/00a0f963-27c1-4034-951e-c3009d8076b1> a ex:TrendRecord ;
+    ex:category "국내 종합" ;
+    ex:location "South Korea" ;
+    ex:query "설리" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q496501> .
+    ex:rank "3" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/00a26313-a75c-4977-bd59-35d081c7503d> a ex:TrendRecord ;
+    ex:category "Searches" ;
+    ex:location "Kenya" ;
+    ex:query "Yahoo" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q37093> .
+    ex:rank "5" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/00a646ed-e3f5-4aa5-ad8b-8b233e9dcfaa> a ex:TrendRecord ;
+    ex:category "Travel" ;
+    ex:location "Romania" ;
+    ex:query "Oferte Litoral 2011" ;
+    ex:rank "1" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/00a878d9-98c4-433a-b36a-11fb29bb817c> a ex:TrendRecord ;
+    ex:category "ประเภทร้าน" ;
+    ex:location "Thailand" ;
+    ex:query "ร้านเสื้อผ้า" ;
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/00a99352-303c-4954-b592-4022fa403fcf> a ex:TrendRecord ;
+    ex:category "Musicians" ;
+    ex:location "Poland" ;
+    ex:query "Lana Del Rey" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q37150> .
+    ex:rank "5" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/00aaa4ae-0323-4109-adde-7a57626c5f66> a ex:TrendRecord ;
+    ex:category "Biglietti" ;
+    ex:location "Italy" ;
+    ex:query "Finale Coppa Italia 2016" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q23005562> .
+    ex:rank "3" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/00b0fb38-d77f-4685-ae04-f6c8c9b2c585> a ex:TrendRecord ;
+    ex:category "Popular Men" ;
+    ex:location "Spain" ;
+    ex:query "Orlando Bloom" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q44467> .
+    ex:rank "4" ;
+    ex:year "2003" .
+
+<http://example.org/trends/record/00b31d67-b799-493a-8e7c-a690f458834c> a ex:TrendRecord ;
+    ex:category "Come fare" ;
+    ex:location "Italy" ;
+    ex:query "il gorgonzola in casa" ;
+    ex:rank "3" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/00b49492-36a5-40aa-b960-380b6e986a78> a ex:TrendRecord ;
+    ex:category "Mete di vacanza emergenti" ;
+    ex:location "Italy" ;
+    ex:query "Sochi" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q39420> .
+    ex:rank "2" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/00b687a1-4a86-4c1a-bf23-b4ca5e5b12db> a ex:TrendRecord ;
+    ex:category "How to..." ;
+    ex:location "United States" ;
+    ex:query "How to buy Bitcoin" ;
+    ex:rank "5" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/00b9bd37-2077-46e2-b65b-1f030e3cb461> a ex:TrendRecord ;
+    ex:category "Athletes" ;
+    ex:location "Canada" ;
+    ex:query "Tony Stewart" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q380127> .
+    ex:rank "4" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/00ba6e8b-c6f5-4fc5-a495-35842e644253> a ex:TrendRecord ;
+    ex:category "Diete" ;
+    ex:location "Romania" ;
+    ex:query "Dieta nalep" ;
+    ex:rank "5" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/00be6485-9bbd-453f-9f4a-e604ceff5fbf> a ex:TrendRecord ;
+    ex:category "Hotel Chains" ;
+    ex:location "Global" ;
+    ex:query "Holiday Inn" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q2717882> .
+    ex:rank "1" ;
+    ex:year "2004" .
+
+<http://example.org/trends/record/00c16caf-4482-4e0c-8da4-86c11e0ddd04> a ex:TrendRecord ;
+    ex:category "Overall Trending Searches" ;
+    ex:location "Uganda" ;
+    ex:query "Aronda Nyakairima" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q4795550> .
+    ex:rank "1" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/00c8f2e0-3910-4d20-8f4c-55f42c221ef9> a ex:TrendRecord ;
+    ex:category "How..." ;
+    ex:location "Canada" ;
+    ex:query "How old is Meghan Markle?" ;
+    ex:rank "3" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/00ca9abe-eaf5-4f77-8bc6-2f83b9232dd7> a ex:TrendRecord ;
+    ex:category "Самые популярные запросы" ;
+    ex:location "Belarus" ;
+    ex:query "Мажор 3" ;
+    ex:rank "2" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/00ccbac8-13ff-42b6-b0cf-9f37e9e9dd62> a ex:TrendRecord ;
+    ex:category "Gadgets" ;
+    ex:location "Portugal" ;
+    ex:query "Huawei P9" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q24576869> .
+    ex:rank "3" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/00cd3744-04ab-4aa5-baa2-0fde88e7183a> a ex:TrendRecord ;
+    ex:category "Deportes" ;
+    ex:location "Costa Rica" ;
+    ex:query "Copa América 2016" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q576136> .
+    ex:rank "2" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/00cf3ae6-8ac8-4e03-89fe-413cca264abc> a ex:TrendRecord ;
+    ex:category "Népszerű szórakoztató műsorok" ;
+    ex:location "Hungary" ;
+    ex:query "Survivor" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1135315> .
+    ex:rank "3" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/00d02b15-5749-479c-a5a6-df1613e69613> a ex:TrendRecord ;
+    ex:category "Jak?" ;
+    ex:location "Czechia" ;
+    ex:query "Jak volit prezidenta" ;
+    ex:rank "4" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/00d0470b-5e77-4da0-859e-bd324331d286> a ex:TrendRecord ;
+    ex:category "Top Searches in 2016" ;
+    ex:location "Singapore" ;
+    ex:query "Pokemon Go" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q20966579> .
+    ex:rank "2" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/00d27754-dec7-4359-947b-613e0b0d4cad> a ex:TrendRecord ;
+    ex:category "Trending Workouts" ;
+    ex:location "Singapore" ;
+    ex:query "Emi Wong workout" ;
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/00d560ce-9071-4056-bbee-00457c55c37f> a ex:TrendRecord ;
+    ex:category "Tendencias" ;
+    ex:location "Colombia" ;
+    ex:query "Salario Mínimo" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q10367164> .
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/00d5d922-2272-49c9-8e6c-c842a0a4e9b0> a ex:TrendRecord ;
+    ex:category "Ulkomaalaiset henkilöt" ;
+    ex:location "Finland" ;
+    ex:query "Philip Seymour Hoffman" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q180560> .
+    ex:rank "4" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/00d868ff-988d-482f-a397-739e60245f9d> a ex:TrendRecord ;
+    ex:category "Slováci a Slovenky" ;
+    ex:location "Slovakia" ;
+    ex:query "Barbora Piešová" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q96575533> .
+    ex:rank "3" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/00d914d3-1897-4227-945e-78aad4484829> a ex:TrendRecord ;
+    ex:category "Female Celebrities" ;
+    ex:location "United Kingdom" ;
+    ex:query "Caitlyn Jenner" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q365144> .
+    ex:rank "5" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/00df91de-edad-4890-aa3a-b21aef7fc17b> a ex:TrendRecord ;
+    ex:category "Food" ;
+    ex:location "United States" ;
+    ex:query "Unicorn cake" ;
+    ex:rank "1" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/00e0ab68-95ae-4017-a457-101f46e8ef70> a ex:TrendRecord ;
+    ex:category "なぜ○○？" ;
+    ex:location "Japan" ;
+    ex:query "スペック 志村 なぜ" ;
+    ex:rank "4" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/00e0fcd0-3722-4178-8323-80dc45b6f32e> a ex:TrendRecord ;
+    ex:category "What is" ;
+    ex:location "Ireland" ;
+    ex:query "Brexit" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q7888194> .
+    ex:rank "2" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/00e2b858-8235-4adb-abdf-b1dc7bc2a99b> a ex:TrendRecord ;
+    ex:category "Cómo" ;
+    ex:location "Uruguay" ;
+    ex:query "Cómo salió Peñarol" ;
+    ex:rank "4" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/00ef77df-9b82-4ca0-99bb-19d44617836c> a ex:TrendRecord ;
+    ex:category "Searches" ;
+    ex:location "United States" ;
+    ex:query "Hurricane Sandy" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q264> .
+    ex:rank "2" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/00efc4b6-aa74-4ab2-ae95-3800f8e454ca> a ex:TrendRecord ;
+    ex:category "Recipes" ;
+    ex:location "Singapore" ;
+    ex:query "Kueh Bangkit" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q12690610> .
+    ex:rank "4" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/00f13659-97b2-4809-8219-0943f74d01de> a ex:TrendRecord ;
+    ex:category "Schweizer Events" ;
+    ex:location "Switzerland" ;
+    ex:query "Paleo Festival" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q143390> .
+    ex:rank "2" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/00f13afc-8fad-4910-b3a4-49f6154d66ce> a ex:TrendRecord ;
+    ex:category "What is..." ;
+    ex:location "India" ;
+    ex:query "What is section 377" ;
+    ex:rank "1" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/00f357de-78b8-4d7e-bf39-553fd16fcd57> a ex:TrendRecord ;
+    ex:category "Beauty Questions" ;
+    ex:location "United States" ;
+    ex:query "How to do cat eye" ;
+    ex:rank "5" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/00f78bec-d447-4a72-940f-cc1faeb29faa> a ex:TrendRecord ;
+    ex:category "Sports" ;
+    ex:location "Kenya" ;
+    ex:query "Manchester United" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q18656> .
+    ex:rank "3" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/00f7fca1-dc3d-47f8-ac65-48402478c2d0> a ex:TrendRecord ;
+    ex:category "Cars" ;
+    ex:location "United States" ;
+    ex:query "Toyota" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q53268> .
+    ex:rank "4" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/00fd77c1-2b19-430a-9a68-be535c005e59> a ex:TrendRecord ;
+    ex:category "News Searches (Carian Berita)" ;
+    ex:location "Malaysia" ;
+    ex:query "Paris Attacks" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q108473422> .
+    ex:rank "2" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/00fe1738-e0c5-4e2a-a52f-841b4331eebe> a ex:TrendRecord ;
+    ex:category "Näyttelijät" ;
+    ex:location "Finland" ;
+    ex:query "David Hasselhoff" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q201927> .
+    ex:rank "3" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/00fedf66-be33-4ddc-97fb-9f440cb4530d> a ex:TrendRecord ;
+    ex:category "Felkapott keresések" ;
+    ex:location "Hungary" ;
+    ex:query "Szmogriadó" ;
+    ex:rank "4" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/0105a25b-6e7a-4fa3-a9c8-fd9b8131f0fa> a ex:TrendRecord ;
+    ex:category "Looking to Buy Online: Fastest Rising Searches" ;
+    ex:location "Global" ;
+    ex:query "LightScribe" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q679874> .
+    ex:rank "5" ;
+    ex:year "2009" .
+
+<http://example.org/trends/record/010843d6-4091-4095-822f-399dd5585ea7> a ex:TrendRecord ;
+    ex:category "Dog Questions" ;
+    ex:location "United States" ;
+    ex:query "How long are dogs pregnant?" ;
+    ex:rank "1" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/010ab336-77c1-4c92-8cbb-18357e34e9aa> a ex:TrendRecord ;
+    ex:category "Diets" ;
+    ex:location "Canada" ;
+    ex:query "Apple Cider Vinegar Diet" ;
+    ex:rank "1" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/010cc376-e541-45cb-a9cb-416a06ac6fba> a ex:TrendRecord ;
+    ex:category "Famous women" ;
+    ex:location "Ireland" ;
+    ex:query "Katie Taylor" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q262699> .
+    ex:rank "4" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/010de931-c467-4822-952d-df81f340e0c5> a ex:TrendRecord ;
+    ex:category "Canciones" ;
+    ex:location "Puerto Rico" ;
+    ex:query "Bubalu" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q42710> .
+    ex:rank "3" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/010f2564-f4f4-47db-8138-f0498e0bd6c1> a ex:TrendRecord ;
+    ex:category "Enim otsitud märksõnad" ;
+    ex:location "Estonia" ;
+    ex:query "Kobe Bryant" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q25369> .
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/010f2592-0f82-4890-b60f-ac5322f48e6d> a ex:TrendRecord ;
+    ex:category "Overall Searches" ;
+    ex:location "Ireland" ;
+    ex:query "Dolores O'Riordan" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q541599> .
+    ex:rank "5" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/0112d3aa-4586-4532-a9e3-cc42df5702ce> a ex:TrendRecord ;
+    ex:category "Personajes" ;
+    ex:location "Puerto Rico" ;
+    ex:query "Meghan Markle" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q3304418> .
+    ex:rank "3" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/01133a8a-c832-4852-a59c-ed258397f614> a ex:TrendRecord ;
+    ex:category "Podcast" ;
+    ex:location "Norway" ;
+    ex:query "Krisemøte" ;
+    ex:rank "4" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/0117d838-c62f-410e-a5b4-77e068789b67> a ex:TrendRecord ;
+    ex:category "Películas" ;
+    ex:location "Mexico" ;
+    ex:query "Infinity War" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q23780914> .
+    ex:rank "2" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/011a83a1-b3a0-41a1-9371-1de91709f871> a ex:TrendRecord ;
+    ex:category "Top Ten" ;
+    ex:location "United Kingdom" ;
+    ex:query "Cilla Black" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q286525> .
+    ex:rank "1" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/011acaf0-0b57-44b9-87fa-ad3e46b13b51> a ex:TrendRecord ;
+    ex:category "What is...? (Health Focus)" ;
+    ex:location "South Africa" ;
+    ex:query "What is stress" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q33938084> .
+    ex:rank "3" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/011e5b96-4989-4d40-a78d-71e0dc6a95fd> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "Bangladesh" ;
+    ex:query "Shakib Al Hasan" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q266104> .
+    ex:rank "1" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/011ea5b2-7a25-4dbd-a3ef-a38292b27861> a ex:TrendRecord ;
+    ex:category "Jídlo" ;
+    ex:location "Czechia" ;
+    ex:query "Hřib satan" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q26203731> .
+    ex:rank "4" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/011f543f-aa12-485a-92ba-3f128039ebe6> a ex:TrendRecord ;
+    ex:category "TV serije" ;
+    ex:location "Serbia" ;
+    ex:query "Ubice mog oca" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q25465481> .
+    ex:rank "1" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/01231b3f-14ee-49d2-ac9d-187ddc8e2249> a ex:TrendRecord ;
+    ex:category "Acontecimientos" ;
+    ex:location "Argentina" ;
+    ex:query "Cyber Monday" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q112055> .
+    ex:rank "1" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/012583a3-5c8c-4a93-a067-3c21c9d0b9e2> a ex:TrendRecord ;
+    ex:category "Personas" ;
+    ex:location "Chile" ;
+    ex:query "Joan Rivers" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q240933> .
+    ex:rank "4" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/01271892-80b4-4592-aa75-85a81c504a46> a ex:TrendRecord ;
+    ex:category "Nopeimmin nousseet syömiseen liittyvät haut" ;
+    ex:location "Finland" ;
+    ex:query "Kalorilaskuri" ;
+    ex:rank "4" ;
+    ex:year "2009" .
+
+<http://example.org/trends/record/0130c835-a8f8-4cc9-8995-e99709403f51> a ex:TrendRecord ;
+    ex:category "Cómo hacer..." ;
+    ex:location "Puerto Rico" ;
+    ex:query "Cómo hacer una piscina económica" ;
+    ex:rank "1" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/01332908-b198-449f-ba70-1c5372f2c6ce> a ex:TrendRecord ;
+    ex:category "Trending Gadgets" ;
+    ex:location "Singapore" ;
+    ex:query "iPad Air" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q15092013> .
+    ex:rank "5" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/0133351f-7218-49ac-98e3-72bf0005f06a> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "Canada" ;
+    ex:query "Hailey Baldwin" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q20983703> .
+    ex:rank "3" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/0133e3d7-485a-4299-bdc1-d571206f1087> a ex:TrendRecord ;
+    ex:category "Навіщо?" ;
+    ex:location "Ukraine" ;
+    ex:query "потрібні пошукові системи" ;
+    ex:rank "1" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/013543a3-6205-4cd0-8459-fa96a1015ce8> a ex:TrendRecord ;
+    ex:category "Popular Queries" ;
+    ex:location "Spain" ;
+    ex:query "Coches" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q107203722> .
+    ex:rank "5" ;
+    ex:year "2003" .
+
+<http://example.org/trends/record/0139881d-c34f-4e19-aed1-5ddaa2f2fd38> a ex:TrendRecord ;
+    ex:category "Najszybciej zyskujące na popularności" ;
+    ex:location "Poland" ;
+    ex:query "Wybory USA" ;
+    ex:rank "3" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/0139d654-3c9b-44e2-aef5-796e8bde2b9d> a ex:TrendRecord ;
+    ex:category "Trending zoekopdrachten crisis en conflicten" ;
+    ex:location "Netherlands" ;
+    ex:query "Tarik Zahzah" ;
+    ex:rank "4" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/013a5548-1fd1-40f0-aa8d-e5fd6522b4c9> a ex:TrendRecord ;
+    ex:category "Election Questions" ;
+    ex:location "United States" ;
+    ex:query "Where do I vote?" ;
+    ex:rank "1" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/013c2953-9bbd-4f77-9629-d533c2de8fd0> a ex:TrendRecord ;
+    ex:category "Cum să pictezi" ;
+    ex:location "Romania" ;
+    ex:query "Cum se zugrăvește" ;
+    ex:rank "5" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/013eeb11-2690-4886-acf9-e9010b544039> a ex:TrendRecord ;
+    ex:category "Music" ;
+    ex:location "Philippines" ;
+    ex:query "Let it Go " ;
+    ex:wikidata <http://www.wikidata.org/entity/Q15282326> .
+    ex:rank "3" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/0140477f-7b6a-4a80-9c9c-d1e24afbf792> a ex:TrendRecord ;
+    ex:category "Como fazer" ;
+    ex:location "Brazil" ;
+    ex:query "Como fazer máscara de tecido?" ;
+    ex:rank "1" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/01409399-73a3-467b-89ba-09ac0ba4608b> a ex:TrendRecord ;
+    ex:category "Entertainers" ;
+    ex:location "India" ;
+    ex:query "Sapna Choudhary" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q48884766> .
+    ex:rank "3" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/01463605-685d-4939-bbdc-2b1a00505b70> a ex:TrendRecord ;
+    ex:category "新聞" ;
+    ex:location "Hong Kong" ;
+    ex:query "AIG" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q212235> .
+    ex:rank "5" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/014727e5-8ad3-4409-8b93-02f419439628> a ex:TrendRecord ;
+    ex:category "Loss" ;
+    ex:location "Australia" ;
+    ex:query "Luke Perry" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q318165> .
+    ex:rank "3" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/01480920-b907-40d6-a7f8-383083421fa0> a ex:TrendRecord ;
+    ex:category "Trending Global Personalities" ;
+    ex:location "Kenya" ;
+    ex:query "Boris Johnson" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q180589> .
+    ex:rank "4" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/014b2a18-92eb-4e9f-af6f-b663694f6d28> a ex:TrendRecord ;
+    ex:category "为什么" ;
+    ex:location "China" ;
+    ex:query "为什么有雷雨" ;
+    ex:rank "5" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/014c8135-d2a9-4d0c-9e4a-48ac79f311ad> a ex:TrendRecord ;
+    ex:category "Deportistas" ;
+    ex:location "Argentina" ;
+    ex:query "Oscar Pistorius" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q201377> .
+    ex:rank "2" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/01521ad3-a397-4911-80ab-2d8ac1092b37> a ex:TrendRecord ;
+    ex:category "Olympic Sports" ;
+    ex:location "Global" ;
+    ex:query "Swimming" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q31920> .
+    ex:rank "2" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/0156ae65-3556-42c8-8d21-5fd827e2a4f3> a ex:TrendRecord ;
+    ex:category "Les définitions" ;
+    ex:location "France" ;
+    ex:query "Pétauriste" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q46792382> .
+    ex:rank "4" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/0159de71-7ee1-4e4b-8b8f-2110a6e2b8ce> a ex:TrendRecord ;
+    ex:category "음악" ;
+    ex:location "South Korea" ;
+    ex:query "떨려요 " ;
+    ex:wikidata <http://www.wikidata.org/entity/Q25219068> .
+    ex:rank "2" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/015a7bc8-100b-47ff-a4c9-8d566215dea1> a ex:TrendRecord ;
+    ex:category "Купить дешево" ;
+    ex:location "Russia" ;
+    ex:query "Двухсимочный телефон" ;
+    ex:rank "3" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/015f30dd-5954-4ad1-9309-1916cdb1a2db> a ex:TrendRecord ;
+    ex:category "Les requêtes \"Comment\" les plus populaires" ;
+    ex:location "Senegal" ;
+    ex:query "Comment savoir si on est vierge" ;
+    ex:rank "5" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/015fd02e-5208-48db-bfbf-dd6935d5e9ed> a ex:TrendRecord ;
+    ex:category "Hrvatska estrada - pretrage u porastu" ;
+    ex:location "Croatia" ;
+    ex:query "Thompson" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q2803433> .
+    ex:rank "1" ;
+    ex:year "2009" .
+
+<http://example.org/trends/record/0162f967-2d16-4a08-81b3-a3cb57ecdfdb> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "Mexico" ;
+    ex:query "Charlie Sheen" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q103939> .
+    ex:rank "4" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/01659d58-f100-4735-8cd4-139d87d6ddaf> a ex:TrendRecord ;
+    ex:category "Peristiwa Nasional" ;
+    ex:location "Indonesia" ;
+    ex:query "Air Asia Ditemukan" ;
+    ex:rank "4" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/0165dfa6-2a33-41ea-a926-1d667a3d3c6e> a ex:TrendRecord ;
+    ex:category "What is...?" ;
+    ex:location "Ireland" ;
+    ex:query "What is anxiety" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q51094461> .
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/01668bb7-6d67-4ad2-8b2b-d28c42977e3b> a ex:TrendRecord ;
+    ex:category "Επικαιρότητα" ;
+    ex:location "Greece" ;
+    ex:query "Κορωνοϊός" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q84263196> .
+    ex:rank "1" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/0166fc72-f867-4212-8af4-2f3d08488193> a ex:TrendRecord ;
+    ex:category "Les recherches « Qu’est-ce que » en progression" ;
+    ex:location "Belgium" ;
+    ex:query "L’examen EMG" ;
+    ex:rank "2" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/016d1443-3f5d-404d-aabf-8f777e41358a> a ex:TrendRecord ;
+    ex:category "Reseptit" ;
+    ex:location "Finland" ;
+    ex:query "Pulled pork" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1347028> .
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/016ed421-1b95-49c1-92af-175fa3b15a2e> a ex:TrendRecord ;
+    ex:category "Famosos" ;
+    ex:location "Brazil" ;
+    ex:query "Cory Monteith" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q296484> .
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/016f5f75-18ab-426f-9d3f-abf5489602fd> a ex:TrendRecord ;
+    ex:category "Årets mest trendande sökningar 2020" ;
+    ex:location "Sweden" ;
+    ex:query "USA-valet" ;
+    ex:rank "2" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/0170bc0b-356f-4bed-86aa-25e5cb36e956> a ex:TrendRecord ;
+    ex:category "Personalities" ;
+    ex:location "India" ;
+    ex:query "Kim Jong-un" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q56226> .
+    ex:rank "4" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/0170cddf-09c7-4bcb-a85f-b777e36b4e52> a ex:TrendRecord ;
+    ex:category "富士山" ;
+    ex:location "Japan" ;
+    ex:query "富士山 地割れ" ;
+    ex:rank "4" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/0171f267-9384-423d-8449-28a4c9df61d8> a ex:TrendRecord ;
+    ex:category "Eventos Deportivos" ;
+    ex:location "Colombia" ;
+    ex:query "Liga Aguila" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1033349> .
+    ex:rank "2" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/0172998f-5199-4e90-8c7a-462f51635768> a ex:TrendRecord ;
+    ex:category "Fastest Rising Searches " ;
+    ex:location "Turkey" ;
+    ex:query "E Devlet" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q25478688> .
+    ex:rank "2" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/017370d7-1182-43ec-8718-5adc0613c71d> a ex:TrendRecord ;
+    ex:category "Why..." ;
+    ex:location "Canada" ;
+    ex:query "Why is blackface offensive?" ;
+    ex:rank "3" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/017abb57-825f-4075-89ac-282dc8a8a6d7> a ex:TrendRecord ;
+    ex:category "Entertainers" ;
+    ex:location "India" ;
+    ex:query "Sunny Leone" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q260794> .
+    ex:rank "1" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/017ee29d-a5b5-422c-ad20-367f3a297100> a ex:TrendRecord ;
+    ex:category "Oppskrifter" ;
+    ex:location "Norway" ;
+    ex:query "Drops oppskrifter" ;
+    ex:rank "2" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/017f121f-4426-4794-be54-45203fcaed86> a ex:TrendRecord ;
+    ex:category "Trending people" ;
+    ex:location "Senegal" ;
+    ex:query "Hugo Chavez" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q8440> .
+    ex:rank "5" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/01808c52-e530-49e4-8a36-a7f4b0c257fc> a ex:TrendRecord ;
+    ex:category "Hvordan...?" ;
+    ex:location "Norway" ;
+    ex:query "Hvordan slette cookies" ;
+    ex:rank "4" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/01818b70-7fcd-4d29-8ae5-48e22be5d3a8> a ex:TrendRecord ;
+    ex:category "Najczęściej Wyszukiwane" ;
+    ex:location "Poland" ;
+    ex:query "Onet" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q495943> .
+    ex:rank "5" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/01827436-8aa7-4cbe-b926-bc4cd0f7b934> a ex:TrendRecord ;
+    ex:category "Smartphone-uri" ;
+    ex:location "Romania" ;
+    ex:query "Huawei Mate 20 Pro" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q57393039> .
+    ex:rank "2" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/01833d64-5594-4bed-bb58-fa0abbc78a08> a ex:TrendRecord ;
+    ex:category "Searches" ;
+    ex:location "Pakistan" ;
+    ex:query "WWE Extreme Rules" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q52700> .
+    ex:rank "2" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/01844c60-fa8a-4f8d-9832-ecbe341f5052> a ex:TrendRecord ;
+    ex:category "Les sportifs" ;
+    ex:location "France" ;
+    ex:query "Coutinho" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q612073> .
+    ex:rank "3" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/0187e306-27d2-475f-928e-d56ef58e6b11> a ex:TrendRecord ;
+    ex:category "Recipes" ;
+    ex:location "Canada" ;
+    ex:query "Chicken Thigh" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q102354615> .
+    ex:rank "4" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/01887b59-ab30-495e-a03a-341684deb2ac> a ex:TrendRecord ;
+    ex:category "ドラマ" ;
+    ex:location "Japan" ;
+    ex:query "スカーレット" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q59391099> .
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/01899d6e-5320-4003-b976-6bc9e73d958c> a ex:TrendRecord ;
+    ex:category "Qué es" ;
+    ex:location "Colombia" ;
+    ex:query "Qué es asbesto" ;
+    ex:rank "5" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/018b7ee3-63d6-46de-9f8a-a3e74673362e> a ex:TrendRecord ;
+    ex:category "What is...? (Health Focus)" ;
+    ex:location "Uganda" ;
+    ex:query "What is malaria" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q94313570> .
+    ex:rank "4" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/018cb70c-c0a4-4775-a338-52542526300d> a ex:TrendRecord ;
+    ex:category "Politicians" ;
+    ex:location "Ireland" ;
+    ex:query "Leo Varadkar" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1728820> .
+    ex:rank "5" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/01919347-bb03-4c06-a042-9bf7ffb94ee0> a ex:TrendRecord ;
+    ex:category "会社（「入社」と一緒に検索された企業名）" ;
+    ex:location "Japan" ;
+    ex:query "マイクロソフト" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q2283> .
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/0196529f-f5ec-4d1c-8d6c-dbc078f8c441> a ex:TrendRecord ;
+    ex:category "Global News" ;
+    ex:location "Global" ;
+    ex:query "Nepal" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q837> .
+    ex:rank "5" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/019a1051-dc6c-46bf-be2f-e9b88a7a0037> a ex:TrendRecord ;
+    ex:category "Como fazer?" ;
+    ex:location "Brazil" ;
+    ex:query "Como fazer bacalhau?" ;
+    ex:rank "4" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/019b6218-46e1-4865-9b81-b6d37bc63a34> a ex:TrendRecord ;
+    ex:category "Wie-Fragen" ;
+    ex:location "Germany" ;
+    ex:query "Wie unterschreibt die Queen?" ;
+    ex:rank "4" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/019bde34-e33e-478c-a21b-3d0ae33c9053> a ex:TrendRecord ;
+    ex:category "熱爆關鍵字" ;
+    ex:location "Hong Kong" ;
+    ex:query "太陽的後裔" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q18652415> .
+    ex:rank "3" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/019bef60-dd72-4305-ba12-433783a43b97> a ex:TrendRecord ;
+    ex:category "Deportistas" ;
+    ex:location "Colombia" ;
+    ex:query "Nairo Quintana" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q511856> .
+    ex:rank "2" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/019cf993-824f-48e2-b21b-dda029437f1d> a ex:TrendRecord ;
+    ex:category "How to...?" ;
+    ex:location "United Kingdom" ;
+    ex:query "How to use the new Snapchat update" ;
+    ex:rank "4" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/01a075f8-76ee-4af5-bc64-59c6844d8182> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "Australia" ;
+    ex:query "Amy Winehouse" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q15897> .
+    ex:rank "3" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/01a2c5f7-267f-48f3-843c-3d133c0e962f> a ex:TrendRecord ;
+    ex:category "Términos de mayor tendencia en crecimiento" ;
+    ex:location "Colombia" ;
+    ex:query "Copa América 2015" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1129985> .
+    ex:rank "2" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/01a3c78b-3f0b-4dab-a8d2-6b52566ee519> a ex:TrendRecord ;
+    ex:category "Movies" ;
+    ex:location "Ireland" ;
+    ex:query "Django Unchained" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q571032> .
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/01a5cfb7-c471-4e71-8aad-2efdd78cb52b> a ex:TrendRecord ;
+    ex:category "Actores" ;
+    ex:location "Colombia" ;
+    ex:query "Lucero Galindo" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q5981977> .
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/01a7bc65-9d15-439e-a26f-0af7736f42f6> a ex:TrendRecord ;
+    ex:category "Where to buy..." ;
+    ex:location "United States" ;
+    ex:query "Where to buy hand sanitizer" ;
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/01a8f858-1602-46e9-8b79-83b138f1ac4a> a ex:TrendRecord ;
+    ex:category "Deportistas" ;
+    ex:location "Argentina" ;
+    ex:query "Neymar" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q142794> .
+    ex:rank "2" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/01aca5d9-19d8-4e2d-b07b-b2a81950edcc> a ex:TrendRecord ;
+    ex:category "Searches" ;
+    ex:location "Portugal" ;
+    ex:query "Pingo Doce" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1575057> .
+    ex:rank "3" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/01ad4e34-f55b-49f9-9107-44dab0373509> a ex:TrendRecord ;
+    ex:category "แก็ดเจ็ตและเทคโนโลยี" ;
+    ex:location "Thailand" ;
+    ex:query "Samsung GALAXY S5" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q15618594> .
+    ex:rank "4" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/01b5b838-b1f3-4ffb-9737-409912c90cac> a ex:TrendRecord ;
+    ex:category "Overall Trending Searches" ;
+    ex:location "Uganda" ;
+    ex:query "Floyd Mayweather" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q318204> .
+    ex:rank "3" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/01b5fc0c-bd7f-43d6-a45a-f5c63b891d3e> a ex:TrendRecord ;
+    ex:category "Equipos de fútbol" ;
+    ex:location "Uruguay" ;
+    ex:query "Nacional" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q499616> .
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/01b66efc-5fde-4131-a2ee-e145937442dd> a ex:TrendRecord ;
+    ex:category "Mobile Phones" ;
+    ex:location "Ghana" ;
+    ex:query "iPhone 6S" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q20962117> .
+    ex:rank "1" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/01b6f8ad-b75e-4e0f-bf88-a3a88b2109f9> a ex:TrendRecord ;
+    ex:category "... during coronavirus" ;
+    ex:location "United States" ;
+    ex:query "Best stocks to buy during coronavirus" ;
+    ex:rank "1" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/01bb4449-43f2-4084-8ebf-c59a39fd6eb3> a ex:TrendRecord ;
+    ex:category "話題の人（女性）" ;
+    ex:location "Japan" ;
+    ex:query "滝川 クリステル" ;
+    ex:rank "2" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/01bc7a3c-a55b-4ba3-b4dc-96e7240605f1> a ex:TrendRecord ;
+    ex:category "Politics" ;
+    ex:location "United States" ;
+    ex:query "Cheri Daniels" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q16248574> .
+    ex:rank "5" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/01bf1efe-03f3-4a2f-abad-c8e499f874dd> a ex:TrendRecord ;
+    ex:category "Movies" ;
+    ex:location "Canada" ;
+    ex:query "Dunkirk" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q21935651> .
+    ex:rank "5" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/01c0d053-686f-404a-ab2b-4cfd91ee9cfe> a ex:TrendRecord ;
+    ex:category "Afbeeldingen" ;
+    ex:location "Netherlands" ;
+    ex:query "2013" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1998> .
+    ex:rank "4" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/01c21b2c-138f-48ad-8982-be4aede749b9> a ex:TrendRecord ;
+    ex:category "Popularne pjesme" ;
+    ex:location "Croatia" ;
+    ex:query "Gangnam Style" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q890> .
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/01c25b60-5446-4df1-9abc-2935902e302b> a ex:TrendRecord ;
+    ex:category "Parole" ;
+    ex:location "Italy" ;
+    ex:query "Cristiano Ronaldo" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q11571> .
+    ex:rank "3" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/01c2858b-0d7b-4638-8cdd-fe0a417ed678> a ex:TrendRecord ;
+    ex:category "Versuri" ;
+    ex:location "Romania" ;
+    ex:query "Panamera versuri " ;
+    ex:rank "2" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/01c2c48a-ebb1-4356-bb49-47ba3ed34fc8> a ex:TrendRecord ;
+    ex:category "Piłkarze reprezentacji w piłce nożnej" ;
+    ex:location "Poland" ;
+    ex:query "Robert Lewandowski" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q151269> .
+    ex:rank "1" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/01c5fa45-9c56-4930-8c1e-e52b52696058> a ex:TrendRecord ;
+    ex:category "Top Trending" ;
+    ex:location "Global" ;
+    ex:query "Paul Walker" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q213864> .
+    ex:rank "2" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/01c6b452-9a72-486a-969f-30a366fd8cb5> a ex:TrendRecord ;
+    ex:category "Como..." ;
+    ex:location "United States" ;
+    ex:query "Cómo aprender ingles rapido" ;
+    ex:rank "1" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/01c7dca6-97a9-4a30-ab41-817331bbef37> a ex:TrendRecord ;
+    ex:category "Schlagzeilen des Jahres" ;
+    ex:location "Austria" ;
+    ex:query "Hurrikan Irma" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q38685186> .
+    ex:rank "3" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/01c8aabe-06bd-4a11-b66a-f922442c8ffb> a ex:TrendRecord ;
+    ex:category "快速竄升關鍵字" ;
+    ex:location "Taiwan" ;
+    ex:query "里約奧運" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q25692704> .
+    ex:rank "2" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/01cb193d-ad65-4176-a273-975b45e7145b> a ex:TrendRecord ;
+    ex:category "Inimesed" ;
+    ex:location "Estonia" ;
+    ex:query "Jaan Kross" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q161842> .
+    ex:rank "2" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/01d5426a-0c39-491d-b2c1-c95f74437d5a> a ex:TrendRecord ;
+    ex:category "Fitness" ;
+    ex:location "United States" ;
+    ex:query "Spinning" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q37249409> .
+    ex:rank "3" ;
+    ex:year "2007" .
+
+<http://example.org/trends/record/01d6314b-5d0a-4be2-b49e-c6c93f6e18f1> a ex:TrendRecord ;
+    ex:category "Athletes" ;
+    ex:location "Global" ;
+    ex:query "Tristan Thompson" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q973212> .
+    ex:rank "1" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/01db26ff-0372-494e-9cea-dc4afb5e6fec> a ex:TrendRecord ;
+    ex:category "What is..." ;
+    ex:location "Global" ;
+    ex:query "What is Alprazolam" ;
+    ex:rank "4" ;
+    ex:year "2006" .
+
+<http://example.org/trends/record/01ddc003-4773-43f0-91ea-d6ef2d815f06> a ex:TrendRecord ;
+    ex:category "สูตรอาหาร" ;
+    ex:location "Thailand" ;
+    ex:query "สูตรหมักไก่ย่าง" ;
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/01e1a442-7aa1-4f86-a073-587b6832f5e0> a ex:TrendRecord ;
+    ex:category "Personajes" ;
+    ex:location "Colombia" ;
+    ex:query "Kaleth Morales" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q6352185> .
+    ex:rank "3" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/01e49f9d-cefe-4a8c-b2d7-74d37ac732ae> a ex:TrendRecord ;
+    ex:category "News Sources" ;
+    ex:location "Ghana" ;
+    ex:query "MyJoyonline.com" ;
+    ex:rank "2" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/01e4f484-6c27-405a-95b5-8b5c96fc6e3c> a ex:TrendRecord ;
+    ex:category "Entertainment" ;
+    ex:location "Serbia" ;
+    ex:query "Veliki Brat 4" ;
+    ex:rank "3" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/01e4fb22-43de-4e2f-adaa-454e7ebc4bd8> a ex:TrendRecord ;
+    ex:category "Donde..." ;
+    ex:location "United States" ;
+    ex:query "Dónde voto" ;
+    ex:rank "2" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/01e9a4ba-44c9-4983-8a8d-9a43c8891ed0> a ex:TrendRecord ;
+    ex:category "Global people" ;
+    ex:location "Australia" ;
+    ex:query "Ed Sheeran" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q47447> .
+    ex:rank "2" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/01ebb80e-e386-40f1-825d-89ec9637a62b> a ex:TrendRecord ;
+    ex:category "Rode Duivels / Diables Rouges" ;
+    ex:location "Belgium" ;
+    ex:query "Dedryck Boyata" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q328911> .
+    ex:rank "5" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/01ec5319-6a43-48ca-8eed-c3ebcc4f3ef3> a ex:TrendRecord ;
+    ex:category "Diets" ;
+    ex:location "United States" ;
+    ex:query "Four Hour Diet" ;
+    ex:rank "2" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/01ee9190-64a9-459f-a725-13a2ecdd31e9> a ex:TrendRecord ;
+    ex:category "Song Lyrics" ;
+    ex:location "Australia" ;
+    ex:query "Blurred Lines Lyrics" ;
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/01f1096f-273c-4b77-825e-ae7421e409ba> a ex:TrendRecord ;
+    ex:category "Abschiede" ;
+    ex:location "Germany" ;
+    ex:query "Sean Connery" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q4573> .
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/01f39853-db3f-4f70-a19d-23811496d04e> a ex:TrendRecord ;
+    ex:category "Google Doodles of 2014" ;
+    ex:location "Global" ;
+    ex:query "Rubik's Cube" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q47043> .
+    ex:rank "3" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/01f573d1-56c8-408f-9205-8a42e04ec477> a ex:TrendRecord ;
+    ex:category "Fai-da-te (a casa)" ;
+    ex:location "Italy" ;
+    ex:query "Compostiera" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q2141629> .
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/01fa3210-12ab-4d32-9e53-aa55aee1729d> a ex:TrendRecord ;
+    ex:category "Miami, FL" ;
+    ex:location "United States" ;
+    ex:query "Paul Walker" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q213864> .
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/01fbe9fb-f745-47b0-825e-7e561193ffa8> a ex:TrendRecord ;
+    ex:category "Questions" ;
+    ex:location "South Africa" ;
+    ex:query "What is listeriosis?" ;
+    ex:rank "3" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/01fc51e4-e20d-42aa-866c-56ec1260f0c6> a ex:TrendRecord ;
+    ex:category "В тренде" ;
+    ex:location "Russia" ;
+    ex:query "Вк вход" ;
+    ex:rank "2" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/01fd90ae-d5df-47d1-9fe1-949e28c93794> a ex:TrendRecord ;
+    ex:category "Genel Aramalar" ;
+    ex:location "Turkey" ;
+    ex:query "Referandum sonuçları" ;
+    ex:rank "5" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/02008ea9-0247-4f8a-a4ba-e15dcfd542cd> a ex:TrendRecord ;
+    ex:category "Ricetta" ;
+    ex:location "Italy" ;
+    ex:query "Casatiello" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q3661496> .
+    ex:rank "5" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/0200b1be-cccd-4307-837a-1f7e19e636a1> a ex:TrendRecord ;
+    ex:category "Como...?" ;
+    ex:location "Portugal" ;
+    ex:query "Como funciona a STAYAWAY COVID?" ;
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/0205bef3-d830-4e5c-8dcf-bd9965d85f02> a ex:TrendRecord ;
+    ex:category "ข่าวในประเทศ" ;
+    ex:location "Thailand" ;
+    ex:query "ข่าวโอ วรุฒ" ;
+    ex:rank "4" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/02085f12-96d6-4a07-89e8-9529a6655f49> a ex:TrendRecord ;
+    ex:category "Suchanfragen" ;
+    ex:location "Switzerland" ;
+    ex:query "Pokemon Go" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q20966579> .
+    ex:rank "3" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/0208eaf1-4c81-4ddf-84b7-e94ca7d9b90e> a ex:TrendRecord ;
+    ex:category "Trending Movies" ;
+    ex:location "Singapore" ;
+    ex:query "Tenet" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q63985561> .
+    ex:rank "3" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/020b5459-f057-4030-a9be-dc461fa38866> a ex:TrendRecord ;
+    ex:category "Politische Schlagzeilen" ;
+    ex:location "Germany" ;
+    ex:query "Halle" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q2814> .
+    ex:rank "4" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/020b803e-fa4c-47ae-b377-3dc6b009691c> a ex:TrendRecord ;
+    ex:category "Más Populares" ;
+    ex:location "Colombia" ;
+    ex:query "YouTube" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q866> .
+    ex:rank "4" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/020c403c-fb84-4e2b-9714-0bb641cf6955> a ex:TrendRecord ;
+    ex:category "Fastest Rising" ;
+    ex:location "Philippines" ;
+    ex:query "Facebook" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q355> .
+    ex:rank "1" ;
+    ex:year "2009" .
+
+<http://example.org/trends/record/0213b84f-7a2f-4381-8413-8005255a89fd> a ex:TrendRecord ;
+    ex:category "Hiburan" ;
+    ex:location "Malaysia" ;
+    ex:query "Parasite" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q2813832> .
+    ex:rank "4" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/021ccb88-2ba5-419d-b067-657082daaefc> a ex:TrendRecord ;
+    ex:category "Athletes" ;
+    ex:location "United States" ;
+    ex:query "Aaron Boone" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q4661865> .
+    ex:rank "3" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/022026f7-fe15-4cae-ad7a-e2772161f724> a ex:TrendRecord ;
+    ex:category "Trending Belgische persoonlijkheden / Les personnalités belges en progression" ;
+    ex:location "Belgium" ;
+    ex:query "Sam Louwyck" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1827804> .
+    ex:rank "4" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/0222c8f4-22f1-4ec2-b977-97009e7b6a9f> a ex:TrendRecord ;
+    ex:category "Trending People we lost in 2015" ;
+    ex:location "Kenya" ;
+    ex:query "Fidel Odinga" ;
+    ex:rank "1" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/0222dce8-4148-4a51-8399-ecc6f3d6ab94> a ex:TrendRecord ;
+    ex:category "Actualités" ;
+    ex:location "France" ;
+    ex:query "Elections Européennes" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q16999180> .
+    ex:rank "2" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/0223a97d-ea0f-480e-9227-ddb63866849b> a ex:TrendRecord ;
+    ex:category "Most Popular" ;
+    ex:location "United Arab Emirates" ;
+    ex:query "دبي" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q612> .
+    ex:rank "5" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/022497d7-f5af-4fd0-b5ef-5c5b6b0e0875> a ex:TrendRecord ;
+    ex:category "Recipes" ;
+    ex:location "Global" ;
+    ex:query "Pizza" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q177> .
+    ex:rank "4" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/02251f85-735f-4733-994e-bca2f253b3c5> a ex:TrendRecord ;
+    ex:category "Juegos Olímpicos 2016" ;
+    ex:location "Mexico" ;
+    ex:query "Michael Phelps" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q39562> .
+    ex:rank "2" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/0225c061-b8c1-40d9-a5a8-fdc6753c1b9b> a ex:TrendRecord ;
+    ex:category "Meest Populair" ;
+    ex:location "Netherlands" ;
+    ex:query "Marktplaats" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q330284> .
+    ex:rank "3" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/022a3767-4085-495d-850e-61f602d56ee0> a ex:TrendRecord ;
+    ex:category "Fastest Rising: what is ..." ;
+    ex:location "United Arab Emirates" ;
+    ex:query "What is recession" ;
+    ex:rank "5" ;
+    ex:year "2009" .
+
+<http://example.org/trends/record/022c5d36-6d3a-457d-9547-76a6fa3732ba> a ex:TrendRecord ;
+    ex:category "Searches" ;
+    ex:location "United Kingdom" ;
+    ex:query "Fifa 12" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q137924> .
+    ex:rank "3" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/022db3e7-6c25-4806-8e85-902721f470c6> a ex:TrendRecord ;
+    ex:category "ENTERTAINERS" ;
+    ex:location "Ghana" ;
+    ex:query "Zayn Malik" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q3626950> .
+    ex:rank "5" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/022ebf9c-2040-415b-ae92-2ae3c045d2d7> a ex:TrendRecord ;
+    ex:category "Acontecimientos" ;
+    ex:location "Uruguay" ;
+    ex:query "Elecciones 2014" ;
+    ex:rank "1" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/02322ffc-8725-45c3-b736-3596a93ec8c7> a ex:TrendRecord ;
+    ex:category "Mobile devices (Peranti mudah alih)" ;
+    ex:location "Malaysia" ;
+    ex:query "Huawei P9" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q24576869> .
+    ex:rank "2" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/0233832c-790e-4da6-8d4b-053287c9447d> a ex:TrendRecord ;
+    ex:category "Searches" ;
+    ex:location "Global" ;
+    ex:query "Christina Aguilera" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q41594> .
+    ex:rank "3" ;
+    ex:year "2004" .
+
+<http://example.org/trends/record/0235cc9d-5e40-4d92-8713-b4eb4b964b7f> a ex:TrendRecord ;
+    ex:category "Сериалы" ;
+    ex:location "Russia" ;
+    ex:query "Чернобыль" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q129677> .
+    ex:rank "2" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/023806fd-6d2d-4a6d-9825-8677b0759580> a ex:TrendRecord ;
+    ex:category "Trending 'How to' Love and Relationships searches" ;
+    ex:location "Kenya" ;
+    ex:query "How to start a conversation with a girl" ;
+    ex:rank "5" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/023a015b-e749-419c-9cef-1bfcfe1aaba1> a ex:TrendRecord ;
+    ex:category "Sportowcy" ;
+    ex:location "Poland" ;
+    ex:query "Dawid Ozdoba" ;
+    ex:rank "4" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/023a134e-f3c9-47d7-bf91-022e48f56b49> a ex:TrendRecord ;
+    ex:category "Películas" ;
+    ex:location "Mexico" ;
+    ex:query "365 DNI" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q85520182> .
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/023a150c-7c85-46d2-b703-8e39b0996091> a ex:TrendRecord ;
+    ex:category "Perdas" ;
+    ex:location "Brazil" ;
+    ex:query "Márcia Cabrita" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q10334250> .
+    ex:rank "2" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/023a249c-2083-4104-b0a0-9e3fccbe7757> a ex:TrendRecord ;
+    ex:category "Книги года" ;
+    ex:location "Russia" ;
+    ex:query "Виноваты звезды" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q14704171> .
+    ex:rank "1" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/023be313-fbbf-42d1-a981-94cf3f3d3f26> a ex:TrendRecord ;
+    ex:category "Music Acts" ;
+    ex:location "United Kingdom" ;
+    ex:query "Rita Ora" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q229760> .
+    ex:rank "3" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/023d9c98-f700-4849-a9e7-73178f025527> a ex:TrendRecord ;
+    ex:category "Události" ;
+    ex:location "Czechia" ;
+    ex:query "Stávka učitelů" ;
+    ex:rank "3" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/024101dd-33d9-4bb4-b789-54f126fb9e12> a ex:TrendRecord ;
+    ex:category "Loss" ;
+    ex:location "Global" ;
+    ex:query "Mac Miller" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q324726> .
+    ex:rank "2" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/0244198f-b53c-4f24-9c46-2a516752fc35> a ex:TrendRecord ;
+    ex:category "Books" ;
+    ex:location "Italy" ;
+    ex:query "Cinquanta sfumature di nero" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q2195511> .
+    ex:rank "3" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/02485630-6d82-48f0-995e-097739b80a0e> a ex:TrendRecord ;
+    ex:category "Mat" ;
+    ex:location "Sweden" ;
+    ex:query "Gremolata" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q429383> .
+    ex:rank "2" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/02494221-419f-4a03-a5e7-e9398f91395d> a ex:TrendRecord ;
+    ex:category "TV Programme" ;
+    ex:location "Switzerland" ;
+    ex:query "Dschungelcamp" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q885167> .
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/024ab175-1bac-42c2-bb76-3f9349e3092b> a ex:TrendRecord ;
+    ex:category "Hechos" ;
+    ex:location "Colombia" ;
+    ex:query "Eclipse Lunar 2015" ;
+    ex:rank "1" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/024b293d-b4ae-40da-ab52-18c1a2e78a46> a ex:TrendRecord ;
+    ex:category "Games" ;
+    ex:location "Brazil" ;
+    ex:query "2048" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q856078> .
+    ex:rank "3" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/024c1ba1-aa77-4ef2-846c-62ed065b519c> a ex:TrendRecord ;
+    ex:category "TV Shows" ;
+    ex:location "Canada" ;
+    ex:query "Tidying up with Marie Kondo" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q60324083> .
+    ex:rank "5" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/025092d9-054b-493d-b256-bb8411233e29> a ex:TrendRecord ;
+    ex:category "Fastest Rising Searches " ;
+    ex:location "Sweden" ;
+    ex:query "Tankafetast" ;
+    ex:rank "5" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/02551651-80d5-4af9-8507-6eeab972b7a8> a ex:TrendRecord ;
+    ex:category "Cilvēki" ;
+    ex:location "Latvia" ;
+    ex:query "Aivars Brīze" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q16350472> .
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/0255e56e-b378-4c5b-865e-e11478d850a1> a ex:TrendRecord ;
+    ex:category "Current Affairs" ;
+    ex:location "Uganda" ;
+    ex:query "African Cup of Nations" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q542631> .
+    ex:rank "4" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/02563f4c-5e82-480e-8142-a39ce8180728> a ex:TrendRecord ;
+    ex:category "Cuándo" ;
+    ex:location "Chile" ;
+    ex:query "Cuándo juega Colo Colo" ;
+    ex:rank "2" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/02576c0c-b910-4007-83cf-cd732b8231f9> a ex:TrendRecord ;
+    ex:category "Election Questions" ;
+    ex:location "United States" ;
+    ex:query "Where do I vote early?" ;
+    ex:rank "3" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/025a0925-3657-4b93-8dd1-60ce37e3c8f6> a ex:TrendRecord ;
+    ex:category "Chansons" ;
+    ex:location "France" ;
+    ex:query "Dernière danse" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q3023919> .
+    ex:rank "5" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/025a1aa2-7875-4771-bab6-2134afa884f4> a ex:TrendRecord ;
+    ex:category "Food & Drinks" ;
+    ex:location "Egypt" ;
+    ex:query "شيش كباب" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q20655532> .
+    ex:rank "2" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/025b1f4d-6e59-49f1-8bd7-626ad8b8bcfa> a ex:TrendRecord ;
+    ex:category "Películas" ;
+    ex:location "Costa Rica" ;
+    ex:query "365 Dni" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q85520182> .
+    ex:rank "2" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/025ff2a7-6f0e-43ec-9591-fdf8d3fe1f71> a ex:TrendRecord ;
+    ex:category "Berggipfel" ;
+    ex:location "Switzerland" ;
+    ex:query "Rigi" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q2088970> .
+    ex:rank "1" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/0260888c-5208-4bb9-ae8d-90e6c3419539> a ex:TrendRecord ;
+    ex:category "Consumer Technology" ;
+    ex:location "Canada" ;
+    ex:query "Google Pixel" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q25021298> .
+    ex:rank "4" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/02617b3f-fe6f-4446-8bc0-bb1719b5ed63> a ex:TrendRecord ;
+    ex:category "Покупка" ;
+    ex:location "Ukraine" ;
+    ex:query "Маска медицинская" ;
+    ex:rank "1" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/026b45ca-5323-4c65-ad15-476124833471> a ex:TrendRecord ;
+    ex:category "Sökningar som ökat mest i popularitet" ;
+    ex:location "Sweden" ;
+    ex:query "Enciro" ;
+    ex:rank "4" ;
+    ex:year "2009" .
+
+<http://example.org/trends/record/026c51f9-a9fa-46cf-b231-2e89dff5404a> a ex:TrendRecord ;
+    ex:category "Danish Celebrities" ;
+    ex:location "Denmark" ;
+    ex:query "Joakim Ingversen" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q28758882> .
+    ex:rank "5" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/0274ba39-7f8b-4874-bcc9-8a02eedd6eba> a ex:TrendRecord ;
+    ex:category "Покупка року" ;
+    ex:location "Ukraine" ;
+    ex:query "Бейблэйд" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q309386> .
+    ex:rank "1" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/0275fdc4-090a-4e9e-ad23-b9deb1653d20> a ex:TrendRecord ;
+    ex:category "Nedir" ;
+    ex:location "Turkey" ;
+    ex:query "Kara Cuma" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1899132> .
+    ex:rank "5" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/027883d0-6478-4ae7-988f-14963abcc83d> a ex:TrendRecord ;
+    ex:category "Характерни търсения" ;
+    ex:location "Bulgaria" ;
+    ex:query "Турска лира" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q172872> .
+    ex:rank "3" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/027b38ea-027c-4c57-994b-f0b60ebbe609> a ex:TrendRecord ;
+    ex:category "En casa" ;
+    ex:location "Argentina" ;
+    ex:query "Quedate en casa" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q97161720> .
+    ex:rank "2" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/0282c3e6-921e-463a-a1f2-3d49ff991f0b> a ex:TrendRecord ;
+    ex:category "Top Events" ;
+    ex:location "Ghana" ;
+    ex:query "AFCON 2013" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q17667200> .
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/0283d84e-b0c4-4119-83ae-dd8a2aca3a5d> a ex:TrendRecord ;
+    ex:category "Dalszövegek" ;
+    ex:location "Hungary" ;
+    ex:query "Eminem - Venom" ;
+    ex:rank "5" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/02866e95-5a1f-4e70-ab79-11a3f2a4a91a> a ex:TrendRecord ;
+    ex:category "종합" ;
+    ex:location "South Korea" ;
+    ex:query "태양의 후예" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q18652415> .
+    ex:rank "2" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/02874320-5f14-43c2-86ba-4e45e59878a3> a ex:TrendRecord ;
+    ex:category "Informations / Actualités" ;
+    ex:location "France" ;
+    ex:query "Benjamin Griveaux" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q29210910> .
+    ex:rank "2" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/0287bcc8-caac-4c77-9b3c-ef45c27a8cf1> a ex:TrendRecord ;
+    ex:category "Cómo" ;
+    ex:location "Uruguay" ;
+    ex:query "Cómo se contagia el coronavirus" ;
+    ex:rank "4" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/0289953d-7c47-4bd9-8697-3065986cc6d0> a ex:TrendRecord ;
+    ex:category "Nos dejaron..." ;
+    ex:location "Chile" ;
+    ex:query "Pedro Lemebel" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q432239> .
+    ex:rank "3" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/028c4e59-31bb-41c4-836b-6a8191433147> a ex:TrendRecord ;
+    ex:category "Люди" ;
+    ex:location "Russia" ;
+    ex:query "Березовский" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q12785736> .
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/028ff78d-9d2b-4450-976a-b8c6b377e36c> a ex:TrendRecord ;
+    ex:category "Overall" ;
+    ex:location "New Zealand" ;
+    ex:query "World Cup" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q19317> .
+    ex:rank "1" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/0296fd8b-0e16-48d7-aa57-5e089c52769f> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "Bangladesh" ;
+    ex:query "Jennifer Lawrence" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q189490> .
+    ex:rank "1" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/029b17c8-132d-457a-b29f-d15f25907c9c> a ex:TrendRecord ;
+    ex:category "How to..." ;
+    ex:location "Chile" ;
+    ex:query "Cómo Preparar Arroz" ;
+    ex:rank "5" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/029bc849-3630-4ce6-b766-b4a2f68f1a85> a ex:TrendRecord ;
+    ex:category "Música (Artistas)" ;
+    ex:location "Brazil" ;
+    ex:query "MC Bin Laden" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q25439522> .
+    ex:rank "2" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/029e6d9c-930e-4c81-adba-764be7b98c94> a ex:TrendRecord ;
+    ex:category "Hvad...?" ;
+    ex:location "Denmark" ;
+    ex:query "Hvad sker der i København?" ;
+    ex:rank "3" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/029ef1db-a6e8-413f-9c6b-7a1883497970> a ex:TrendRecord ;
+    ex:category "快速竄升電視劇" ;
+    ex:location "Taiwan" ;
+    ex:query "致第三者" ;
+    ex:rank "5" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/02a0705f-58d5-4b7a-8af7-9fad15fc210a> a ex:TrendRecord ;
+    ex:category "Fitness" ;
+    ex:location "United States" ;
+    ex:query "Zumba" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q37561848> .
+    ex:rank "5" ;
+    ex:year "2007" .
+
+<http://example.org/trends/record/02a0a638-73f9-4b1e-80aa-88eaee9d4541> a ex:TrendRecord ;
+    ex:category "How to..." ;
+    ex:location "Ireland" ;
+    ex:query "How to Knit" ;
+    ex:rank "5" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/02a20326-b2e3-42c5-af42-82ad2d6430f0> a ex:TrendRecord ;
+    ex:category "Pessoas" ;
+    ex:location "Brazil" ;
+    ex:query "Bruce Jenner" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q365144> .
+    ex:rank "4" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/02a23650-f692-42b9-bec2-a7e3afc03bf0> a ex:TrendRecord ;
+    ex:category "Corona" ;
+    ex:location "Germany" ;
+    ex:query "Corona aktuell" ;
+    ex:rank "3" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/02a4ef8b-df93-4481-be0a-4b50bbc1a0b8> a ex:TrendRecord ;
+    ex:category "Economía" ;
+    ex:location "Colombia" ;
+    ex:query "Historia" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q201788> .
+    ex:rank "3" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/02a52d98-5eae-431c-9f64-17e8390a4756> a ex:TrendRecord ;
+    ex:category "TV Shows" ;
+    ex:location "United States" ;
+    ex:query "True Detective" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q7847400> .
+    ex:rank "2" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/02a5830c-57ea-4c6d-9486-085e3ccfe718> a ex:TrendRecord ;
+    ex:category "Найпопулярніші запити" ;
+    ex:location "Ukraine" ;
+    ex:query "Заворотнюк" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q102248578> .
+    ex:rank "4" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/02a71077-5deb-4eff-9675-0f25426a1c3c> a ex:TrendRecord ;
+    ex:category "Kendte" ;
+    ex:location "Denmark" ;
+    ex:query "Barack Obama" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q76> .
+    ex:rank "1" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/02ac2966-a084-4697-88b3-53b5a3bb6c75> a ex:TrendRecord ;
+    ex:category "Technik-Trends" ;
+    ex:location "Austria" ;
+    ex:query "iPhone 11 Pro" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q67216142> .
+    ex:rank "1" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/02ae9add-28b4-4a66-a66f-e741cdd734ae> a ex:TrendRecord ;
+    ex:category "ニュース" ;
+    ex:location "Japan" ;
+    ex:query "デング熱" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q30953> .
+    ex:rank "4" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/02b0b1ff-5355-40c3-949e-740a81ee792e> a ex:TrendRecord ;
+    ex:category "Reseptit" ;
+    ex:location "Finland" ;
+    ex:query "Murotaikina" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1959325> .
+    ex:rank "5" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/02b0f333-ed38-4c18-9748-ae184dd3ee61> a ex:TrendRecord ;
+    ex:category "Professional Sports Teams" ;
+    ex:location "United States" ;
+    ex:query "Boston Celtics" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q131371> .
+    ex:rank "3" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/02b23cdc-7739-4dea-84b2-299d157cf0b3> a ex:TrendRecord ;
+    ex:category "Expositions" ;
+    ex:location "France" ;
+    ex:query "Exposition Dali" ;
+    ex:rank "4" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/02b45fb3-4741-480b-a44b-27e43e0917d3> a ex:TrendRecord ;
+    ex:category "Πότε..." ;
+    ex:location "Greece" ;
+    ex:query "Πότε ανοίγουν τα δημοτικά" ;
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/02b4d55e-41c4-4f78-bb96-a3097921d7c1> a ex:TrendRecord ;
+    ex:category "Que signifie... ?" ;
+    ex:location "France" ;
+    ex:query "Que signifie géo" ;
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/02b9cfdb-a4fb-47bd-99f4-d8bca90cb3f4> a ex:TrendRecord ;
+    ex:category "Female Personalities" ;
+    ex:location "Philippines" ;
+    ex:query "Maxine Medina" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q23887908> .
+    ex:rank "1" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/02ba801e-cb63-4eea-bbbb-e33177a9621a> a ex:TrendRecord ;
+    ex:category "Bài Hát" ;
+    ex:location "Vietnam" ;
+    ex:query "Quăng Tao Cái Boong" ;
+    ex:rank "4" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/02bb50ed-3389-4c32-be5d-605328707822> a ex:TrendRecord ;
+    ex:category "Más buscados" ;
+    ex:location "Uruguay" ;
+    ex:query "Corte Electoral" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1135527> .
+    ex:rank "2" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/02bbeb70-47ec-455d-9ed6-d577cf6a7035> a ex:TrendRecord ;
+    ex:category "Tendencias 2020" ;
+    ex:location "Guatemala" ;
+    ex:query "Elecciones Estados Unidos" ;
+    ex:rank "3" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/02c46182-b697-4d12-9b65-d474d458635b> a ex:TrendRecord ;
+    ex:category "Deportistas" ;
+    ex:location "Spain" ;
+    ex:query "Michael Phelps" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q39562> .
+    ex:rank "4" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/02c55bea-05bc-4555-87d7-27fdb2257241> a ex:TrendRecord ;
+    ex:category "Filmai" ;
+    ex:location "Lithuania" ;
+    ex:query "Tarp pilkų debesų" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q3631055> .
+    ex:rank "1" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/02cbe5ec-b459-475c-9869-c46e644ac994> a ex:TrendRecord ;
+    ex:category "Sportifs" ;
+    ex:location "France" ;
+    ex:query "Mathieu Valbuena" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1919> .
+    ex:rank "4" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/02cce8fe-1665-4ecd-8325-095b99a23a89> a ex:TrendRecord ;
+    ex:category "Schlagzeilen" ;
+    ex:location "Switzerland" ;
+    ex:query "Zoom" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q932299> .
+    ex:rank "3" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/02ce8567-12a1-4c5b-b0ae-308bad6fd0d5> a ex:TrendRecord ;
+    ex:category "Qué" ;
+    ex:location "Mexico" ;
+    ex:query "¿Qué países han ganado la copa mundial de fútbol?" ;
+    ex:rank "2" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/02d02987-d130-4074-a2af-975e0cb3a1fc> a ex:TrendRecord ;
+    ex:category "Men" ;
+    ex:location "United Kingdom" ;
+    ex:query "Orlando Bloom" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q44467> .
+    ex:rank "4" ;
+    ex:year "2002" .
+
+<http://example.org/trends/record/02d35f9c-68b7-4b8a-b59a-51601febd32b> a ex:TrendRecord ;
+    ex:category "News" ;
+    ex:location "Philippines" ;
+    ex:query "Halalan 2019" ;
+    ex:rank "1" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/02d4e8ef-cece-469f-8185-c6a9e9ed43e1> a ex:TrendRecord ;
+    ex:category "DIY" ;
+    ex:location "United Kingdom" ;
+    ex:query "DIY face mask" ;
+    ex:rank "1" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/02dc7655-27f3-49f5-8fcf-3ad8105aa6fe> a ex:TrendRecord ;
+    ex:category "What is...?" ;
+    ex:location "Ghana" ;
+    ex:query "What is Sex" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q108709572> .
+    ex:rank "2" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/02dcfe2e-4ca3-4557-bfc6-a4df42df95a1> a ex:TrendRecord ;
+    ex:category "Actors" ;
+    ex:location "Global" ;
+    ex:query "Joaquin Phoenix" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q185140> .
+    ex:rank "2" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/02ded748-e849-4abc-b4db-798721c718d2> a ex:TrendRecord ;
+    ex:category "Ulkomaiset henkilöt" ;
+    ex:location "Finland" ;
+    ex:query "Pablo Escobar" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q187447> .
+    ex:rank "1" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/02dfa598-30d2-4f88-8e6a-2b293e162349> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "Global" ;
+    ex:query "Nadia Toffa" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q3869845> .
+    ex:rank "3" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/02e18fc7-b447-44a1-9777-aa7cf44ed072> a ex:TrendRecord ;
+    ex:category "Google Doodles of 2012" ;
+    ex:location "United States" ;
+    ex:query "Halloween Doodle" ;
+    ex:rank "4" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/02e26a6a-df17-4fb6-82e7-df26ade4f7cd> a ex:TrendRecord ;
+    ex:category "TV Shows" ;
+    ex:location "United Kingdom" ;
+    ex:query "Homeland" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q10563546> .
+    ex:rank "2" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/02ec67ab-5ff8-40af-9456-5d693dfe59fd> a ex:TrendRecord ;
+    ex:category "Deportes" ;
+    ex:location "Mexico" ;
+    ex:query "Copa Oro 2013" ;
+    ex:rank "5" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/02ed950c-5d8c-40c3-ad48-e041227c169c> a ex:TrendRecord ;
+    ex:category "Qué pasa si..." ;
+    ex:location "Costa Rica" ;
+    ex:query "¿Qué pasa si me ingresa fibra óptica en el cuerpo?" ;
+    ex:rank "2" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/02edefa3-9159-4738-8299-738901b50b2d> a ex:TrendRecord ;
+    ex:category "Mobile Searches" ;
+    ex:location "United States" ;
+    ex:query "Twitter" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q918> .
+    ex:rank "1" ;
+    ex:year "2009" .
+
+<http://example.org/trends/record/02f2545e-da1c-46b4-852f-9cc6774daaf4> a ex:TrendRecord ;
+    ex:category "Games" ;
+    ex:location "Brazil" ;
+    ex:query "Among Us" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q96417649> .
+    ex:rank "1" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/02f32a84-c353-4fe7-a885-4caf8a7cda11> a ex:TrendRecord ;
+    ex:category "Fastest Rising Searches" ;
+    ex:location "Canada" ;
+    ex:query "Rebecca Black" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q18804> .
+    ex:rank "4" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/02f3f557-9119-4d53-abae-9651e6cbd1be> a ex:TrendRecord ;
+    ex:category "Populiariausios paieškos" ;
+    ex:location "Lithuania" ;
+    ex:query "Eurobasket" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q3060570> .
+    ex:rank "1" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/02f4c0b2-029c-466b-bc88-75f329488e44> a ex:TrendRecord ;
+    ex:category "Cosa significa..." ;
+    ex:location "Italy" ;
+    ex:query "Scopofobia" ;
+    ex:rank "5" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/02f75712-78a6-4fad-bd3c-65ab3a7bba9a> a ex:TrendRecord ;
+    ex:category "Songs" ;
+    ex:location "Poland" ;
+    ex:query "Enej Skrzydlate Ręce" ;
+    ex:rank "5" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/02fc42f4-23f3-496f-b01c-c305b241f82a> a ex:TrendRecord ;
+    ex:category "Mortes" ;
+    ex:location "Brazil" ;
+    ex:query "Kobe Bryant" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q25369> .
+    ex:rank "3" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/02fcbe90-cd21-4d7b-9810-4498312cac44> a ex:TrendRecord ;
+    ex:category "Geral" ;
+    ex:location "Portugal" ;
+    ex:query "Pedro Lima" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q4353874> .
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/02fd5659-933e-4faf-b802-a3e271bad0fb> a ex:TrendRecord ;
+    ex:category "Cómo..." ;
+    ex:location "Spain" ;
+    ex:query "Cómo maquillarse" ;
+    ex:rank "3" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/02fd8db3-22ae-444f-a959-80e998a41220> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "United States" ;
+    ex:query "Ray Rice" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1523516> .
+    ex:rank "4" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/02fe2fc1-82c3-4958-bb06-06240653238c> a ex:TrendRecord ;
+    ex:category "Canciones" ;
+    ex:location "Colombia" ;
+    ex:query "Ras tas tas" ;
+    ex:rank "1" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/030023fb-c4a3-4ba1-942f-727198f38e53> a ex:TrendRecord ;
+    ex:category "Nữ Nghệ sĩ Việt" ;
+    ex:location "Vietnam" ;
+    ex:query "Hương Tràm" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q10807016> .
+    ex:rank "2" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/030048ab-2bf8-48fb-8cec-54e44310726c> a ex:TrendRecord ;
+    ex:category "Les acteurs" ;
+    ex:location "France" ;
+    ex:query "Jonah Hill" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q313388> .
+    ex:rank "5" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/0304e2b5-ea6a-4313-af83-345bbfd61cc6> a ex:TrendRecord ;
+    ex:category "Futebol" ;
+    ex:location "Brazil" ;
+    ex:query "Futebol Ao Vivo" ;
+    ex:rank "3" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/030503b0-b364-4419-80a3-d68b51437da1> a ex:TrendRecord ;
+    ex:category "Consumer Electronics" ;
+    ex:location "Global" ;
+    ex:query "Spb Shell 3d" ;
+    ex:rank "5" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/03070d98-9b86-4763-b6b2-560c1cc5ca83> a ex:TrendRecord ;
+    ex:category "Stars International" ;
+    ex:location "Switzerland" ;
+    ex:query "Jennifer Lawrence" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q189490> .
+    ex:rank "4" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/030be6d0-fe65-40fb-9e0d-37a9d2495938> a ex:TrendRecord ;
+    ex:category "Qué es" ;
+    ex:location "Chile" ;
+    ex:query "Qué es Estado de Excepción" ;
+    ex:rank "4" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/030ca232-b11b-45ad-a7a9-0d477461ead7> a ex:TrendRecord ;
+    ex:category "Comment ?" ;
+    ex:location "France" ;
+    ex:query "Comment savoir si je lui plais" ;
+    ex:rank "4" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/030e4595-91cc-4816-a389-f9a949f5f226> a ex:TrendRecord ;
+    ex:category "الأفلام" ;
+    ex:location "United Arab Emirates" ;
+    ex:query "Beauty and the Beast" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q179673> .
+    ex:rank "4" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/0310d2eb-c9ec-42c6-92b3-21bbcc00df6a> a ex:TrendRecord ;
+    ex:category "Persönlichkeiten" ;
+    ex:location "Germany" ;
+    ex:query "Shirin David" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q27031148> .
+    ex:rank "2" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/031766b3-73d9-40a1-b631-3f1f7c63ce74> a ex:TrendRecord ;
+    ex:category "Inimesed" ;
+    ex:location "Estonia" ;
+    ex:query "Cory Monteith" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q296484> .
+    ex:rank "5" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/0317d6cb-ca85-449c-acf8-1a4f76c23bf7> a ex:TrendRecord ;
+    ex:category "三重" ;
+    ex:location "Japan" ;
+    ex:query "中学生" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q48282> .
+    ex:rank "2" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/03192c2b-f6a2-4555-93b4-f2eb13be7464> a ex:TrendRecord ;
+    ex:category "Cars" ;
+    ex:location "United States" ;
+    ex:query "Ford" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q44294> .
+    ex:rank "1" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/031979b3-e4ec-4d74-899f-4d312dbf2efd> a ex:TrendRecord ;
+    ex:category "Musiciens" ;
+    ex:location "France" ;
+    ex:query "Psy" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q7256364> .
+    ex:rank "4" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/031a966c-a432-429c-97e8-eae44bc7280f> a ex:TrendRecord ;
+    ex:category "Filmy" ;
+    ex:location "Poland" ;
+    ex:query "Kobiety Mafii" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q56329277> .
+    ex:rank "5" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/031b62d2-8cd3-4373-b74e-37db1e30935a> a ex:TrendRecord ;
+    ex:category "Nourriture" ;
+    ex:location "France" ;
+    ex:query "Fondue Savoyarde" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q972682> .
+    ex:rank "3" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/031d8d7b-4745-4f7e-9dea-b1080fa20bd5> a ex:TrendRecord ;
+    ex:category "Películas" ;
+    ex:location "Puerto Rico" ;
+    ex:query "Beauty and the Beast" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q179673> .
+    ex:rank "3" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/031fa8b9-3f17-4daa-bfe6-b4d34e09cc5c> a ex:TrendRecord ;
+    ex:category "Trending Movies & TV Shows" ;
+    ex:location "Kenya" ;
+    ex:query "Ringo" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q37440580> .
+    ex:rank "3" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/0323fe76-04ed-41be-8373-d4de59624a5d> a ex:TrendRecord ;
+    ex:category "Mat" ;
+    ex:location "Sweden" ;
+    ex:query "Pulled pork" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1347028> .
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/032b1aa0-96d3-43c8-a0c0-6717dd35d302> a ex:TrendRecord ;
+    ex:category "Tecnologia" ;
+    ex:location "Brazil" ;
+    ex:query "Moto G5 Plus" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q29578337> .
+    ex:rank "5" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/032d35d8-b74c-430e-af1f-424799e6eb70> a ex:TrendRecord ;
+    ex:category "Trending Movies" ;
+    ex:location "Malaysia" ;
+    ex:query "KL gangster 2" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q19892867> .
+    ex:rank "5" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/032dfca8-55a5-4519-9fbb-faeb49a3a7f2> a ex:TrendRecord ;
+    ex:category "Top Trending" ;
+    ex:location "United States" ;
+    ex:query "Google Plus" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q356> .
+    ex:rank "2" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/0331a0c9-4ba0-4cd5-8592-037b6c0098c8> a ex:TrendRecord ;
+    ex:category "Filmer" ;
+    ex:location "Sweden" ;
+    ex:query "Suicide Squad" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q18604504> .
+    ex:rank "2" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/03326bcf-065a-4ead-ba17-0c2c8b75ed06> a ex:TrendRecord ;
+    ex:category "Fastest Rising" ;
+    ex:location "Malaysia" ;
+    ex:query "Facebook Login" ;
+    ex:rank "1" ;
+    ex:year "2009" .
+
+<http://example.org/trends/record/03354362-2d86-454f-85e8-ddc1f146b105> a ex:TrendRecord ;
+    ex:category "الشخصيات العامة" ;
+    ex:location "Egypt" ;
+    ex:query "محمد صلاح" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1354960> .
+    ex:rank "1" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/03381615-7c23-4dfe-9871-b495ed39e46c> a ex:TrendRecord ;
+    ex:category "Danskere" ;
+    ex:location "Denmark" ;
+    ex:query "Daniel Åxman" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q128566084> .
+    ex:rank "3" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/0338a9dc-c328-41cd-a118-81e5a6b66ff9> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "Mexico" ;
+    ex:query "Gloria Trevi" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q388035> .
+    ex:rank "5" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/033a13a1-3145-442f-8ec5-14b1044d3a82> a ex:TrendRecord ;
+    ex:category "Sporting Events (Trending)" ;
+    ex:location "Australia" ;
+    ex:query "Euro 2016" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q189571> .
+    ex:rank "2" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/033b0b1c-6b8a-45e3-ab4c-c7c9abcc9a40> a ex:TrendRecord ;
+    ex:category "Berita" ;
+    ex:location "Malaysia" ;
+    ex:query "US Election 2020" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q100533117> .
+    ex:rank "1" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/033b6ce5-9138-47a4-951a-ab6db336ca87> a ex:TrendRecord ;
+    ex:category "Hybrid Card" ;
+    ex:location "United States" ;
+    ex:query "Fisker Karma Hybrid" ;
+    ex:rank "1" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/03431968-8a44-4574-a6cd-d08a2e8cd31a> a ex:TrendRecord ;
+    ex:category "Como...?" ;
+    ex:location "Portugal" ;
+    ex:query "Como fazer fermento de padeiro?" ;
+    ex:rank "4" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/03437237-d57f-41ce-8f52-c82d7a2bfdce> a ex:TrendRecord ;
+    ex:category "Búsquedas 2018" ;
+    ex:location "Peru" ;
+    ex:query "Paolo Guerrero" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q156802> .
+    ex:rank "2" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/034849d3-f6cf-4db0-94b2-80cbaa22721b> a ex:TrendRecord ;
+    ex:category "Miten/Kuinka...?" ;
+    ex:location "Finland" ;
+    ex:query "Miten saada poikaystävä" ;
+    ex:rank "2" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/03489738-01c1-4d6f-a718-d15bdd18e4fe> a ex:TrendRecord ;
+    ex:category "Fastest Rising Searches " ;
+    ex:location "Saudi Arabia" ;
+    ex:query "حافز" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q6240> .
+    ex:rank "3" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/034ac2ec-611d-4329-bc42-25e506e08bbe> a ex:TrendRecord ;
+    ex:category "Dem vi sagde farvel til" ;
+    ex:location "Denmark" ;
+    ex:query "Cameron Boyce" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q553704> .
+    ex:rank "4" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/034dcc96-48a1-40a5-9fa4-1d1e0df30ae5> a ex:TrendRecord ;
+    ex:category "Canciones" ;
+    ex:location "Chile" ;
+    ex:query "Canción de Coco" ;
+    ex:rank "5" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/034e2311-1cde-4d08-bf0d-f333a28170cb> a ex:TrendRecord ;
+    ex:category "Global people" ;
+    ex:location "New Zealand" ;
+    ex:query "Harvey Weinstein" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q531599> .
+    ex:rank "1" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/0352372b-0aa5-4c2c-8cb0-b5922d31494c> a ex:TrendRecord ;
+    ex:category "Meest Populair" ;
+    ex:location "Netherlands" ;
+    ex:query "YouTube" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q866> .
+    ex:rank "2" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/0357a819-f4cd-46a7-9cbc-6e9422079305> a ex:TrendRecord ;
+    ex:category "Top questions" ;
+    ex:location "United Kingdom" ;
+    ex:query "How did coronavirus start?" ;
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/03581bf9-b0e1-447a-a350-873b032a8dc5> a ex:TrendRecord ;
+    ex:category "Celebridades" ;
+    ex:location "Panama" ;
+    ex:query "Robin Williams" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q83338> .
+    ex:rank "1" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/0365f2ab-8fe8-4c38-a288-cc91aa18ffb5> a ex:TrendRecord ;
+    ex:category "Annual Events" ;
+    ex:location "United States" ;
+    ex:query "Black Friday" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q86483> .
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/0366e8c5-a7bf-4f02-aeaa-ab9ec76a63bf> a ex:TrendRecord ;
+    ex:category "Lyrics" ;
+    ex:location "Global" ;
+    ex:query "Love Song" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q380233> .
+    ex:rank "3" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/0366e9dc-43a2-43d1-8210-9e774ae62d8d> a ex:TrendRecord ;
+    ex:category "Orang" ;
+    ex:location "Malaysia" ;
+    ex:query "Azmin Ali" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q73962> .
+    ex:rank "2" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/036ba3b3-c618-43ca-a838-6ef94bd6537a> a ex:TrendRecord ;
+    ex:category "Fastest rising / En plus forte progression" ;
+    ex:location "Canada" ;
+    ex:query "Blackberry" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q602740> .
+    ex:rank "2" ;
+    ex:year "2009" .
+
+<http://example.org/trends/record/036bcdd7-0ec4-4af3-aa6f-878317897855> a ex:TrendRecord ;
+    ex:category "Searches" ;
+    ex:location "India" ;
+    ex:query "Sultan" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q37050058> .
+    ex:rank "4" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/03700a10-26f3-45df-b0c5-0b22810ffe5b> a ex:TrendRecord ;
+    ex:category "Female Celebrity Images" ;
+    ex:location "Global" ;
+    ex:query "Christina Aguilera" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q41594> .
+    ex:rank "2" ;
+    ex:year "2004" .
+
+<http://example.org/trends/record/03701756-89f0-4a08-ba00-cd2b7e7637cf> a ex:TrendRecord ;
+    ex:category "Top Trending" ;
+    ex:location "India" ;
+    ex:query "IPL 2013" ;
+    ex:rank "2" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/0371afa3-54e7-4aa7-8cdf-d7fc4407df64> a ex:TrendRecord ;
+    ex:category "Frågor som börjar med \"Hur..?\"" ;
+    ex:location "Sweden" ;
+    ex:query "Hur många pratar finska i Sverige?" ;
+    ex:rank "3" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/03777463-ebff-4251-8c6e-05be4e92ccda> a ex:TrendRecord ;
+    ex:category "How to?" ;
+    ex:location "United Kingdom" ;
+    ex:query "How to vote for EU referendum" ;
+    ex:rank "5" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/037a7a82-256f-473c-b210-a80e29ba156b> a ex:TrendRecord ;
+    ex:category "Schlagzeilen" ;
+    ex:location "Germany" ;
+    ex:query "Lufthansa Aktie" ;
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/037aefab-7365-48c9-93a7-6aee423102fa> a ex:TrendRecord ;
+    ex:category "Novelas, Series y Programas TV" ;
+    ex:location "Colombia" ;
+    ex:query "El man es Germán" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q5825634> .
+    ex:rank "3" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/037c992b-42cb-40e4-910f-5a15f537e4fd> a ex:TrendRecord ;
+    ex:category "Définitions" ;
+    ex:location "France" ;
+    ex:query "Ergonome" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q11697052> .
+    ex:rank "2" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/037ed7c5-bb90-4796-9eed-9c925135260a> a ex:TrendRecord ;
+    ex:category "Frågor som börjar med “Vem”" ;
+    ex:location "Sweden" ;
+    ex:query "Vem vinner Melodifestivalen?" ;
+    ex:rank "4" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/03849462-75d5-4aed-8dda-863c5c637c06> a ex:TrendRecord ;
+    ex:category "Selfies" ;
+    ex:location "United States" ;
+    ex:query "Nia Jax selfie" ;
+    ex:rank "3" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/0387a831-7cf2-4592-bb76-fbc034d06942> a ex:TrendRecord ;
+    ex:category "Abschiede" ;
+    ex:location "Germany" ;
+    ex:query "Cameron Boyce" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q553704> .
+    ex:rank "5" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/038b532e-4ef6-4e60-99b2-8a4525bf611c> a ex:TrendRecord ;
+    ex:category "Gaming" ;
+    ex:location "Puerto Rico" ;
+    ex:query "Uncharted 4" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q16681843> .
+    ex:rank "3" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/038bb650-8123-499f-a1ee-52f64243fbaa> a ex:TrendRecord ;
+    ex:category "Frågor som börjar med \"Hur\"" ;
+    ex:location "Sweden" ;
+    ex:query "Hur man flugfiskar?" ;
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/038ca3a4-9c51-4376-a4f1-eb98371ed7df> a ex:TrendRecord ;
+    ex:category "Acontecimientos" ;
+    ex:location "Argentina" ;
+    ex:query "Ley del Aborto" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q2874481> .
+    ex:rank "3" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/038f5c64-3559-482f-9693-c8a1c6c3dd2b> a ex:TrendRecord ;
+    ex:category "Movies" ;
+    ex:location "Ireland" ;
+    ex:query "A Star is Born" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q3286391> .
+    ex:rank "1" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/0391c85e-0af5-4e7c-a763-1fa19cbf819d> a ex:TrendRecord ;
+    ex:category "Zahraniční celebrity" ;
+    ex:location "Czechia" ;
+    ex:query "Prince" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q7542> .
+    ex:rank "5" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/0394cb8d-d6f6-463b-93cc-03000b9c471d> a ex:TrendRecord ;
+    ex:category "populārākie vārdi" ;
+    ex:location "Latvia" ;
+    ex:query "Olimpiskās spēles" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q5389> .
+    ex:rank "3" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/03960b26-f59c-4623-b11e-207dc8d78cbe> a ex:TrendRecord ;
+    ex:category "Trending People" ;
+    ex:location "Kenya" ;
+    ex:query "Mwai Kibaki" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q57291> .
+    ex:rank "1" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/03974a41-89a6-4322-b445-0c844c77e540> a ex:TrendRecord ;
+    ex:category "Male Personalities" ;
+    ex:location "Philippines" ;
+    ex:query "Song Joong Ki" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q485517> .
+    ex:rank "2" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/03976369-1821-41ee-bebe-c6009d0151f2> a ex:TrendRecord ;
+    ex:category "Jeux en ligne" ;
+    ex:location "France" ;
+    ex:query "Mahjong" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q12263> .
+    ex:rank "4" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/0398140f-db14-4332-bc3c-199e8c10d723> a ex:TrendRecord ;
+    ex:category "Felkapott magyar személyek" ;
+    ex:location "Hungary" ;
+    ex:query "Vágó István" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1461567> .
+    ex:rank "1" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/0399dfe5-ff97-45f7-a9e4-b7d9168f7f25> a ex:TrendRecord ;
+    ex:category "Searches" ;
+    ex:location "Israel" ;
+    ex:query "וויטני יוסטון" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q34389> .
+    ex:rank "5" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/0399fb20-fc5c-4f4d-80ef-39789d093973> a ex:TrendRecord ;
+    ex:category "Calories" ;
+    ex:location "United States" ;
+    ex:query "Cascara Latte calories" ;
+    ex:rank "5" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/039a0074-ae27-4bf4-9596-ce71165eb009> a ex:TrendRecord ;
+    ex:category "Global Sporting Events" ;
+    ex:location "Global" ;
+    ex:query "Wimbledon" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q736742> .
+    ex:rank "4" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/039a06f7-9b3f-4073-a4d2-45540833a6e7> a ex:TrendRecord ;
+    ex:category "«Что такое...?»/«Что значит...?»" ;
+    ex:location "Russia" ;
+    ex:query "Деноминация" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q13414953> .
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/039a8d49-d0ab-4ef1-b3c8-11277c5a8e22> a ex:TrendRecord ;
+    ex:category "Events of 2012" ;
+    ex:location "United States" ;
+    ex:query "Presidential Election" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q858439> .
+    ex:rank "2" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/039d589e-807c-4eb3-a4f4-4ad8ec90ca84> a ex:TrendRecord ;
+    ex:category "Men" ;
+    ex:location "United Kingdom" ;
+    ex:query "Gareth Gates" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q381405> .
+    ex:rank "1" ;
+    ex:year "2002" .
+
+<http://example.org/trends/record/039dc9f8-fa40-440b-b377-8e67f6e093de> a ex:TrendRecord ;
+    ex:category "Recipes" ;
+    ex:location "United Kingdom" ;
+    ex:query "Greek salad" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q240801> .
+    ex:rank "2" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/03a1bc96-018c-47ef-b1ba-bf10a5d4eb98> a ex:TrendRecord ;
+    ex:category "Actors" ;
+    ex:location "Nigeria" ;
+    ex:query "Rahama Sadau" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q23879986> .
+    ex:rank "1" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/03a1dc08-b6f9-4a97-94e2-05698a94fdd9> a ex:TrendRecord ;
+    ex:category "Hechos y Personajes Noticiosos" ;
+    ex:location "Chile" ;
+    ex:query "Cyberday 2018" ;
+    ex:rank "3" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/03a40d63-cc1c-42ce-a6f5-e58586b8692f> a ex:TrendRecord ;
+    ex:category "Recetas" ;
+    ex:location "United States" ;
+    ex:query "Arroz con Leche" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q4796277> .
+    ex:rank "4" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/03a616b7-fbde-4e15-8857-88c2ba1279b5> a ex:TrendRecord ;
+    ex:category "Viihde" ;
+    ex:location "Finland" ;
+    ex:query "Among Us" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q96417649> .
+    ex:rank "2" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/03a6eb2c-7e4d-4f6d-9f6c-b0936463d6c6> a ex:TrendRecord ;
+    ex:category "關鍵字" ;
+    ex:location "Hong Kong" ;
+    ex:query "Jeremy Lin" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q309590> .
+    ex:rank "5" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/03a9c5e5-acbf-4688-817e-e89a1c4e4fb1> a ex:TrendRecord ;
+    ex:category "How To...?" ;
+    ex:location "United Kingdom" ;
+    ex:query "How to stay young?" ;
+    ex:rank "3" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/03b32123-3467-44a3-a807-758e8e26b87b> a ex:TrendRecord ;
+    ex:category "Τι σημαίνει" ;
+    ex:location "Greece" ;
+    ex:query "Annus horribilis" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q567418> .
+    ex:rank "1" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/03b4db04-ed8a-435b-baa6-17e9a61be805> a ex:TrendRecord ;
+    ex:category "Les actualités" ;
+    ex:location "France" ;
+    ex:query "Ouragan Irma" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q38685186> .
+    ex:rank "5" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/03b78ec4-739a-48e4-804d-5b2338b58ba5> a ex:TrendRecord ;
+    ex:category "Kännykät" ;
+    ex:location "Finland" ;
+    ex:query "iPhone 5c" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q14883923> .
+    ex:rank "2" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/03b7eede-f65d-4596-a1b1-e1c744f7f7c9> a ex:TrendRecord ;
+    ex:category "熱爆電視節目" ;
+    ex:location "Hong Kong" ;
+    ex:query "琅琊榜" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q18109982> .
+    ex:rank "5" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/03b9dc16-98bc-4252-9cc1-b4c63e638a94> a ex:TrendRecord ;
+    ex:category "Ricette" ;
+    ex:location "Italy" ;
+    ex:query "Tiramisu" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q131582> .
+    ex:rank "1" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/03bda806-a358-4f13-9b32-86932de0d93c> a ex:TrendRecord ;
+    ex:category "News Items of 2013" ;
+    ex:location "Australia" ;
+    ex:query "Boston Bombing" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q11086137> .
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/03c0e9e2-ddda-42f6-8299-0c8deb34d2e9> a ex:TrendRecord ;
+    ex:category "Movies / TV Shows" ;
+    ex:location "Nigeria" ;
+    ex:query "Miracle in Cell no 7" ;
+    ex:rank "3" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/03c1104f-81b6-433b-adac-d8119941201b> a ex:TrendRecord ;
+    ex:category "Economía" ;
+    ex:location "Colombia" ;
+    ex:query "Economía Política" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q96324962> .
+    ex:rank "1" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/03c5d2ca-8071-41b8-9c31-d044f330728e> a ex:TrendRecord ;
+    ex:category "Nasıl Yapılır?" ;
+    ex:location "Turkey" ;
+    ex:query "revani nasıl yapılır" ;
+    ex:rank "1" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/03c70f01-153b-4cdd-9f81-7b9aa84f9851> a ex:TrendRecord ;
+    ex:category "סלבריטאים" ;
+    ex:location "Israel" ;
+    ex:query "מור ממן" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q16731897> .
+    ex:rank "3" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/03c85ce7-1607-46e1-a981-b41086f0449e> a ex:TrendRecord ;
+    ex:category "Suchbegriffe des Jahres" ;
+    ex:location "Austria" ;
+    ex:query "EU-Wahlergebnisse" ;
+    ex:rank "4" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/03cbc984-920f-4aa7-a055-d936988ffe99> a ex:TrendRecord ;
+    ex:category "Songs" ;
+    ex:location "Germany" ;
+    ex:query "PSY - Gangnam Style" ;
+    ex:rank "1" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/03cc0433-15d2-447a-bce1-b8fb3f4c1bf4> a ex:TrendRecord ;
+    ex:category "Sports People" ;
+    ex:location "Nigeria" ;
+    ex:query "Neymar" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q142794> .
+    ex:rank "1" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/03d1ff83-a39d-42d3-be93-dcc2f7fb110d> a ex:TrendRecord ;
+    ex:category "Top trending South African personalities" ;
+    ex:location "South Africa" ;
+    ex:query "Nikita Murray" ;
+    ex:rank "2" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/03d6e1af-763f-4a53-8452-e36fb08ef606> a ex:TrendRecord ;
+    ex:category "Cum se, cum să...?" ;
+    ex:location "Romania" ;
+    ex:query "cum se deplastifiaza o hartie" ;
+    ex:rank "3" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/03dc9f06-250a-498f-9560-00b14e0e799e> a ex:TrendRecord ;
+    ex:category "Anapilin išėję žmonės" ;
+    ex:location "Lithuania" ;
+    ex:query "Almantas Vaišnys" ;
+    ex:rank "3" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/03de1b79-dd41-429d-82c7-1c041dfb0e7a> a ex:TrendRecord ;
+    ex:category "Entertainment" ;
+    ex:location "Thailand" ;
+    ex:query "คันหู" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q13013817> .
+    ex:rank "1" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/03e15c2b-3572-4839-910a-99edc067fde1> a ex:TrendRecord ;
+    ex:category "Atores" ;
+    ex:location "Brazil" ;
+    ex:query "Jamie Dornan" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q976022> .
+    ex:rank "2" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/03e22fc9-13e5-4da0-9679-f3a1c3c266e8> a ex:TrendRecord ;
+    ex:category "Популярни търсения - събития" ;
+    ex:location "Bulgaria" ;
+    ex:query "мис българия 2013" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q20497913> .
+    ex:rank "2" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/03e48e14-3d32-4eb2-810c-f8aba1dba92a> a ex:TrendRecord ;
+    ex:category "STORIES" ;
+    ex:location "Ghana" ;
+    ex:query "Olympic Games Rio 2016" ;
+    ex:rank "1" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/03e93175-3652-4367-89b6-98c4f08b19b2> a ex:TrendRecord ;
+    ex:category "TV Shows" ;
+    ex:location "Global" ;
+    ex:query "Stranger Things" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q19798734> .
+    ex:rank "2" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/03eb8dae-c2fe-45b2-b807-7b204a4ae6d2> a ex:TrendRecord ;
+    ex:category "Felkapott keresések" ;
+    ex:location "Hungary" ;
+    ex:query "Cameron Boyce" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q553704> .
+    ex:rank "5" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/03ebf00d-8a1e-4062-b4e0-9b6725298827> a ex:TrendRecord ;
+    ex:category "TV" ;
+    ex:location "South Korea" ;
+    ex:query "어쩌다 발견한 하루" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q65272295> .
+    ex:rank "3" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/03ee0a7e-f3ba-4eff-948f-806a36e3e5b9> a ex:TrendRecord ;
+    ex:category "Product Searches" ;
+    ex:location "United States" ;
+    ex:query "Samsung Galaxy" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q493064> .
+    ex:rank "3" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/03ef41cf-c7d7-4e59-b907-1e18fc5a39c7> a ex:TrendRecord ;
+    ex:category "Música (Artistas)" ;
+    ex:location "Brazil" ;
+    ex:query "Banda Vingadora" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q22687760> .
+    ex:rank "3" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/03ef8284-4467-44df-94f3-f2e33619058f> a ex:TrendRecord ;
+    ex:category "Songs of 2015" ;
+    ex:location "Thailand" ;
+    ex:query "ทิ้งไว้กลางทาง" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q25538310> .
+    ex:rank "2" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/03f15700-47af-4f8e-8a84-ec39e530bfb1> a ex:TrendRecord ;
+    ex:category "Miten...?" ;
+    ex:location "Finland" ;
+    ex:query "Miten iskeä mies" ;
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/03f3cbfc-3933-4488-892a-989074b9073e> a ex:TrendRecord ;
+    ex:category "Diete" ;
+    ex:location "Romania" ;
+    ex:query "Dieta Mara Bănică" ;
+    ex:rank "4" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/03f696d5-8c29-42f6-9d8e-da6d290d1d4d> a ex:TrendRecord ;
+    ex:category "Cine este...?" ;
+    ex:location "Romania" ;
+    ex:query "cine este autorul tabloului dejunul pe iarba" ;
+    ex:rank "4" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/03f73b37-a622-4edd-943f-d90e492fbb93> a ex:TrendRecord ;
+    ex:category "Najbolj priljubljena iskanja" ;
+    ex:location "Slovenia" ;
+    ex:query "Oblak 365" ;
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/03f7da84-4ad3-467b-ba69-2d64c16d63e7> a ex:TrendRecord ;
+    ex:category "Stars International" ;
+    ex:location "Austria" ;
+    ex:query "Robin Williams" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q83338> .
+    ex:rank "1" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/04006f70-26ca-4aeb-80b7-0f85095a8542> a ex:TrendRecord ;
+    ex:category "สูตรอาหาร" ;
+    ex:location "Thailand" ;
+    ex:query "สูตรหมักหมูย่าง" ;
+    ex:rank "4" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/0402416b-57f4-46bd-9bbd-a39feb2fed18> a ex:TrendRecord ;
+    ex:category "How to..." ;
+    ex:location "Canada" ;
+    ex:query "How to apply for CERB" ;
+    ex:rank "3" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/0402817d-fec2-48bb-9166-f0b6636e57c6> a ex:TrendRecord ;
+    ex:category "Music Artists" ;
+    ex:location "United States" ;
+    ex:query "Sam Smith" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q27763826> .
+    ex:rank "5" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/040be205-30af-4a3a-931c-e5a650ad640b> a ex:TrendRecord ;
+    ex:category "Eventos deportivos" ;
+    ex:location "Panama" ;
+    ex:query "Serie del Caribe" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q22297346> .
+    ex:rank "5" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/040fb275-2539-4ada-8780-d4763ae7e776> a ex:TrendRecord ;
+    ex:category "Preguntas del año" ;
+    ex:location "Panama" ;
+    ex:query "Qué significa tbt" ;
+    ex:rank "1" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/040fdc05-3c78-41b1-92dc-1b85aeffea08> a ex:TrendRecord ;
+    ex:category "話題の人（男性）" ;
+    ex:location "Japan" ;
+    ex:query "小泉進次郎" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q661410> .
+    ex:rank "5" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/04143995-301f-4a1f-a8b6-34ec58a9528d> a ex:TrendRecord ;
+    ex:category "Personaggi" ;
+    ex:location "Italy" ;
+    ex:query "Avicii" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q505476> .
+    ex:rank "4" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/0417af69-2476-49df-8d9a-9f0d884fed8a> a ex:TrendRecord ;
+    ex:category "Global People" ;
+    ex:location "New Zealand" ;
+    ex:query "Lamar Odom" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q296403> .
+    ex:rank "2" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/04189128-fa01-4801-87b5-63deaa1607b3> a ex:TrendRecord ;
+    ex:category "Thiết Bị Điện Tử" ;
+    ex:location "Vietnam" ;
+    ex:query "Oppo F5" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q60748815> .
+    ex:rank "5" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/0418ebfa-ab0d-4d17-bb18-772bbf7b41ec> a ex:TrendRecord ;
+    ex:category "Cómo" ;
+    ex:location "Uruguay" ;
+    ex:query "Cómo hacer tapabocas" ;
+    ex:rank "2" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/04210fab-f5d7-4c89-9279-9e38fb1fffd7> a ex:TrendRecord ;
+    ex:category "Frågor som börjar med \"Hur...?\"" ;
+    ex:location "Sweden" ;
+    ex:query "Hur utvecklades evolutionsteorin?" ;
+    ex:rank "4" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/04211657-9c4d-44e9-bb23-4fc574b6dd33> a ex:TrendRecord ;
+    ex:category "Google News Local Searches" ;
+    ex:location "Philippines" ;
+    ex:query "Pacquiao Marquez Fight" ;
+    ex:rank "2" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/042450e1-f9bb-42bb-ab7e-d9336593ee82> a ex:TrendRecord ;
+    ex:category "People: Fastest Rising" ;
+    ex:location "Global" ;
+    ex:query "Lady Gaga" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q19848> .
+    ex:rank "2" ;
+    ex:year "2009" .
+
+<http://example.org/trends/record/042ca09c-44b6-4bc8-9b57-e183601bbd1b> a ex:TrendRecord ;
+    ex:category "TV Shows" ;
+    ex:location "Ireland" ;
+    ex:query "Eastenders" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q607514> .
+    ex:rank "5" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/042d3d41-63be-4fd4-98e4-a6e7a6196313> a ex:TrendRecord ;
+    ex:category "Персона" ;
+    ex:location "Belarus" ;
+    ex:query "Анастасия Заворотнюк" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q2626768> .
+    ex:rank "2" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/042d7b07-dea0-43c3-a4ff-bef809f33898> a ex:TrendRecord ;
+    ex:category "How to..." ;
+    ex:location "Philippines" ;
+    ex:query "How to log in to your Metrobankdirect account" ;
+    ex:rank "2" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/042f4674-b17f-4ed8-b3cb-07216a5b095d> a ex:TrendRecord ;
+    ex:category "Tendances de l'année" ;
+    ex:location "France" ;
+    ex:query "SNCF" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q13646> .
+    ex:rank "1" ;
+    ex:year "2002" .
+
+<http://example.org/trends/record/04301f68-190e-409f-9c2c-867e0e381ef9> a ex:TrendRecord ;
+    ex:category "Searches" ;
+    ex:location "Ghana" ;
+    ex:query "Tubidy" ;
+    ex:rank "4" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/04338790-759c-4857-b55d-a979a5fd1226> a ex:TrendRecord ;
+    ex:category "Female Celebrities" ;
+    ex:location "United Kingdom" ;
+    ex:query "Anne Kirkbride" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q4768510> .
+    ex:rank "3" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/04384c24-0ff3-42cf-9804-086578210d8e> a ex:TrendRecord ;
+    ex:category "Recipes" ;
+    ex:location "Canada" ;
+    ex:query "Rice Krispies Squares" ;
+    ex:rank "3" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/0438c1d7-dc56-4fe8-9f80-872bddaf9e80> a ex:TrendRecord ;
+    ex:category "게임" ;
+    ex:location "South Korea" ;
+    ex:query "오토 체스" ;
+    ex:rank "5" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/0439e496-6d7d-4056-b1c3-3014c17cbd4b> a ex:TrendRecord ;
+    ex:category "Fastest Rising Searches " ;
+    ex:location "Slovakia" ;
+    ex:query "Pavol Demitra" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q363628> .
+    ex:rank "4" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/043c4bb6-fcf8-4e74-8146-0f43bb460a08> a ex:TrendRecord ;
+    ex:category "Come fare" ;
+    ex:location "Italy" ;
+    ex:query "il pesto alla genovese in casa" ;
+    ex:rank "5" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/043cae1b-6beb-44cd-80b4-9671d9d281dd> a ex:TrendRecord ;
+    ex:category "Car Images" ;
+    ex:location "Global" ;
+    ex:query "Nissan Skyline" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q643635> .
+    ex:rank "4" ;
+    ex:year "2004" .
+
+<http://example.org/trends/record/043cc7a6-47ba-488e-9f2f-f3a7c42b9f0e> a ex:TrendRecord ;
+    ex:category "סדרות" ;
+    ex:location "Israel" ;
+    ex:query "אלי כהן" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q223311> .
+    ex:rank "2" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/043e965b-70d1-40a0-95a4-324329309763> a ex:TrendRecord ;
+    ex:category "Acontecimientos Sociales" ;
+    ex:location "Spain" ;
+    ex:query "Carnaval 2013" ;
+    ex:rank "4" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/04415cea-5bcc-4449-8ca2-ad79e171cd64> a ex:TrendRecord ;
+    ex:category "TV Shows" ;
+    ex:location "Global" ;
+    ex:query "延禧攻略" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q55540000> .
+    ex:rank "1" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/0442f92a-5ddd-4c69-b91f-002cd05da3c9> a ex:TrendRecord ;
+    ex:category "عمليات البحث الأكثر رواجاً" ;
+    ex:location "Saudi Arabia" ;
+    ex:query "مدرستي" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q101081443> .
+    ex:rank "1" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/0448571f-878e-4839-8947-06b21c9ff437> a ex:TrendRecord ;
+    ex:category "Top de pesquisas gerais" ;
+    ex:location "Portugal" ;
+    ex:query "Desafio Final 3" ;
+    ex:rank "1" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/04485a1c-50f2-49b4-8824-e91e33809d7e> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "Nigeria" ;
+    ex:query "Alexis Sanchez" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q315697> .
+    ex:rank "1" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/044c1360-0dde-4204-93fa-5a6b3f8d0e78> a ex:TrendRecord ;
+    ex:category "Jak... ?" ;
+    ex:location "Poland" ;
+    ex:query "Jak zrobić kamerę otworkową" ;
+    ex:rank "4" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/044c6298-c0c3-40cc-8d69-585a5a0db847> a ex:TrendRecord ;
+    ex:category "Was-Fragen" ;
+    ex:location "Switzerland" ;
+    ex:query "Was tun Zeckenbiss?" ;
+    ex:rank "3" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/044edde7-b778-4b2d-b61d-763aa767a642> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "Netherlands" ;
+    ex:query "Pippa Middleton" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q232465> .
+    ex:rank "4" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/0450ee9c-34a7-4195-ab62-d2159e65cf63> a ex:TrendRecord ;
+    ex:category "Sport Personalities" ;
+    ex:location "Ghana" ;
+    ex:query "Pedro" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q15897419> .
+    ex:rank "2" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/0452f5dd-f85a-419c-9d04-ec280e82d426> a ex:TrendRecord ;
+    ex:category "Phim Điện ảnh" ;
+    ex:location "Vietnam" ;
+    ex:query "Maleficent" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q172271> .
+    ex:rank "4" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/0457af95-c2b1-48c9-ac6a-60e9f8d66072> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "South Africa" ;
+    ex:query "Khanyi Mbau" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q19792253> .
+    ex:rank "3" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/04580623-e752-48c5-a3f3-151174d7873e> a ex:TrendRecord ;
+    ex:category "Los Favoritos de la TV" ;
+    ex:location "Chile" ;
+    ex:query "Pituca sin Lucas" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q18259583> .
+    ex:rank "3" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/04583c0b-b22a-4551-b45a-87ddade96802> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "Pakistan" ;
+    ex:query "Sylvester Stallone" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q40026> .
+    ex:rank "5" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/045aa7bf-c79c-4e44-9665-596e35dbf3e0> a ex:TrendRecord ;
+    ex:category "Músicas" ;
+    ex:location "Brazil" ;
+    ex:query "Paradinha" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q74436> .
+    ex:rank "4" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/045cd5f3-33a5-4d3f-bd6d-81112e2ed8e6> a ex:TrendRecord ;
+    ex:category "Ταχύτερα αυξανόμενες αναζητήσεις γεγονότων/ Events, trending" ;
+    ex:location "Greece" ;
+    ex:query "mundial 2014" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q79859> .
+    ex:rank "3" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/045cdeec-823f-43d2-95ce-c363cbd0f944> a ex:TrendRecord ;
+    ex:category "종합" ;
+    ex:location "South Korea" ;
+    ex:query "류현진" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q50604> .
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/045dec05-eeb6-4f0c-b265-f9642a78e2ab> a ex:TrendRecord ;
+    ex:category "Ljudi" ;
+    ex:location "Serbia" ;
+    ex:query "Paul Walker" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q213864> .
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/0462af84-6fe5-4b2f-8b85-ee4ee83670da> a ex:TrendRecord ;
+    ex:category "Musik" ;
+    ex:location "Germany" ;
+    ex:query "Mieze Katz" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q15835178> .
+    ex:rank "4" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/0462eacb-3ee7-4106-94de-c0203511d82a> a ex:TrendRecord ;
+    ex:category "Schnellste Aufsteiger unter den Suchbegriffen" ;
+    ex:location "Switzerland" ;
+    ex:query "Youtube.com" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q866> .
+    ex:rank "4" ;
+    ex:year "2009" .
+
+<http://example.org/trends/record/04648b3f-24d8-40b1-9064-5af4f3246d32> a ex:TrendRecord ;
+    ex:category "快速竄升人物（不包含已故者）" ;
+    ex:location "Taiwan" ;
+    ex:query "連千毅" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q85884631> .
+    ex:rank "4" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/04652d58-313c-4ca1-b158-1cf5c1d73731> a ex:TrendRecord ;
+    ex:category "Trending People - الاشخاص الأكثر رواجاً" ;
+    ex:location "Saudi Arabia" ;
+    ex:query "محمد عساف" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q12240786> .
+    ex:rank "2" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/046613f3-9040-4b57-8aea-9c0f8664f972> a ex:TrendRecord ;
+    ex:category "Spørsmål om skjønnhet" ;
+    ex:location "Norway" ;
+    ex:query "Hvordan tegne øyenbryn" ;
+    ex:rank "3" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/046691a8-3240-45f3-966e-00f6932c2040> a ex:TrendRecord ;
+    ex:category "TV Shows" ;
+    ex:location "Global" ;
+    ex:query "South Park" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q951038> .
+    ex:rank "3" ;
+    ex:year "2004" .
+
+<http://example.org/trends/record/046855cb-2c2b-4ede-9c4f-a33881d17c4f> a ex:TrendRecord ;
+    ex:category "Movies" ;
+    ex:location "Global" ;
+    ex:query "IT" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q38> .
+    ex:rank "1" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/046a5651-ce64-465f-8dd3-66bf1f8bb865> a ex:TrendRecord ;
+    ex:category "Programas de TV" ;
+    ex:location "Chile" ;
+    ex:query "Amor prohibido" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q474026> .
+    ex:rank "5" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/046b8321-8acb-42b3-b285-93d80351bcaa> a ex:TrendRecord ;
+    ex:category "鹿児島" ;
+    ex:location "Japan" ;
+    ex:query "台風情報" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q11412059> .
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/046db220-49f4-4253-9b25-d6eebcafccb5> a ex:TrendRecord ;
+    ex:category "急上昇ワードランキング" ;
+    ex:location "Japan" ;
+    ex:query "ドラゴンクエスト 9" ;
+    ex:rank "1" ;
+    ex:year "2009" .
+
+<http://example.org/trends/record/046f56a3-f6eb-4c8e-a610-14dc37ebeba8> a ex:TrendRecord ;
+    ex:category "События" ;
+    ex:location "Russia" ;
+    ex:query "Поправки в Конституцию РФ" ;
+    ex:rank "3" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/04718b2b-d568-48a2-9257-9177a42fe3e6> a ex:TrendRecord ;
+    ex:category "Telecomunicaciones/Hardware" ;
+    ex:location "Colombia" ;
+    ex:query "iPhone 5s" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q14850354> .
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/04729d57-5f6b-4038-b647-8de18056bdf3> a ex:TrendRecord ;
+    ex:category "Bài hát" ;
+    ex:location "Vietnam" ;
+    ex:query "Em Của Quá Khứ" ;
+    ex:rank "5" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/04731bd8-905c-4d35-8f24-9fcdf7dd43b4> a ex:TrendRecord ;
+    ex:category "Bakken" ;
+    ex:location "Netherlands" ;
+    ex:query "Taart bakken" ;
+    ex:rank "3" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/0477adcb-c0f0-44a2-9e36-ff28d4746a9c> a ex:TrendRecord ;
+    ex:category "TV Shows" ;
+    ex:location "United States" ;
+    ex:query "American Idol" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q201052> .
+    ex:rank "3" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/047849ce-7c4a-4314-ad88-b7a432865c80> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "Austria" ;
+    ex:query "Gaddafi" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q19878> .
+    ex:rank "3" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/047c6bc3-86dd-4ef9-9cc8-5c386b4b7538> a ex:TrendRecord ;
+    ex:category "Food & Drinks" ;
+    ex:location "Egypt" ;
+    ex:query "كوسة بالبشاميل" ;
+    ex:rank "5" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/047f8d62-adf2-4f99-ba83-62ee1bb102ae> a ex:TrendRecord ;
+    ex:category "Musicians and Bands" ;
+    ex:location "Global" ;
+    ex:query "Mariah Carey" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q41076> .
+    ex:rank "4" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/04847ebb-afc4-4673-a1b6-bc676de43b4e> a ex:TrendRecord ;
+    ex:category "Lyrics" ;
+    ex:location "United Kingdom" ;
+    ex:query "WAP lyrics" ;
+    ex:rank "1" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/0484d848-2fd2-4555-8f10-92e1b3c80ab3> a ex:TrendRecord ;
+    ex:category "Sporty" ;
+    ex:location "Spain" ;
+    ex:query "Gemma Mengual" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q2082592> .
+    ex:rank "4" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/048b5077-9ea5-4098-a931-dc4bf7dccb90> a ex:TrendRecord ;
+    ex:category "Persönlichkeiten" ;
+    ex:location "Germany" ;
+    ex:query "Hans-Georg Maaßen" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1576999> .
+    ex:rank "4" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/048d4f67-f7c5-4e06-b9da-2d2044329ee9> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "United Kingdom" ;
+    ex:query "Meghan Markle" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q3304418> .
+    ex:rank "1" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/0490adde-ac5a-4543-90c6-c3b2727d1249> a ex:TrendRecord ;
+    ex:category "Oscar Red Carpet Dresses" ;
+    ex:location "United States" ;
+    ex:query "Charlize Theron" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q80046> .
+    ex:rank "3" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/04947ae3-509f-43ac-b164-b301f2b39695> a ex:TrendRecord ;
+    ex:category "World Cup Matches" ;
+    ex:location "United States" ;
+    ex:query "Germany vs Argentina" ;
+    ex:rank "2" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/0494a2c0-80bb-452e-a3f4-1845e5d85b39> a ex:TrendRecord ;
+    ex:category "Videojuegos" ;
+    ex:location "Panama" ;
+    ex:query "Dragon Ball Super: Broly" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q48781975> .
+    ex:rank "1" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/0497523e-9ff2-4127-8b81-1e3637af1111> a ex:TrendRecord ;
+    ex:category "Séries" ;
+    ex:location "Brazil" ;
+    ex:query "Stranger Things" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q19798734> .
+    ex:rank "2" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/0499ac69-a860-4c63-9ad7-d6508ebb0eb5> a ex:TrendRecord ;
+    ex:category "Enim otsitud märksõnad" ;
+    ex:location "Estonia" ;
+    ex:query "Koroonaviirus" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q57751738> .
+    ex:rank "2" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/04a14a0d-6723-44ec-82bc-b0078f185067> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "South Africa" ;
+    ex:query "Nelson Mandela" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q8023> .
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/04a1bd9e-e02a-4a50-9352-f42a260c4a1e> a ex:TrendRecord ;
+    ex:category "Trending 'How to' Reproductive health searches" ;
+    ex:location "Kenya" ;
+    ex:query "How to increase fertility" ;
+    ex:rank "2" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/04a4abde-fb1f-4231-b882-37fd232c9b56> a ex:TrendRecord ;
+    ex:category "○○とは" ;
+    ex:location "Japan" ;
+    ex:query "余震" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q308442> .
+    ex:rank "5" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/04a70761-564e-4af6-9e1b-3dc82459f3cc> a ex:TrendRecord ;
+    ex:category "Sports" ;
+    ex:location "Mexico" ;
+    ex:query "Juegos Olímpicos 2012" ;
+    ex:rank "1" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/04a89e0c-1977-46eb-8249-6073f4dc8741> a ex:TrendRecord ;
+    ex:category "TV Shows" ;
+    ex:location "Singapore" ;
+    ex:query "Moon Lovers: Scarlet Heart Ryeo" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q21980662> .
+    ex:rank "3" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/04a944f5-e328-42ae-90d6-8afeba8e83e7> a ex:TrendRecord ;
+    ex:category "Frågor som börjar med \"Hur\"" ;
+    ex:location "Sweden" ;
+    ex:query "Hur man ber?" ;
+    ex:rank "5" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/04a9989c-8594-4494-bdd2-f17ba344cc90> a ex:TrendRecord ;
+    ex:category "Technology" ;
+    ex:location "South Africa" ;
+    ex:query "Samsung Galaxy s4" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q5812783> .
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/04ac478c-3663-4773-ba3a-b106146fa48d> a ex:TrendRecord ;
+    ex:category "Mitä...?" ;
+    ex:location "Finland" ;
+    ex:query "Mitä tehdä kun on tylsää" ;
+    ex:rank "1" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/04b015c0-10bf-45c6-bf23-51757551db53> a ex:TrendRecord ;
+    ex:category "Sports" ;
+    ex:location "Global" ;
+    ex:query "Lance Armstrong" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q2172> .
+    ex:rank "5" ;
+    ex:year "2004" .
+
+<http://example.org/trends/record/04b706e4-ad9e-4bf3-b32d-1c180a1fec77> a ex:TrendRecord ;
+    ex:category "Searches" ;
+    ex:location "Canada" ;
+    ex:query "iPhone 6" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q18010890> .
+    ex:rank "3" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/04c0af44-a13e-4bbc-b510-f8148bd24ef4> a ex:TrendRecord ;
+    ex:category "Kansas City, KS" ;
+    ex:location "United States" ;
+    ex:query "Government Shutdown" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q5589429> .
+    ex:rank "5" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/04c394d7-dea5-402f-94a3-de19d35289e8> a ex:TrendRecord ;
+    ex:category "Pertandingan Piala Dunia" ;
+    ex:location "Indonesia" ;
+    ex:query "Brasil Vs Jerman" ;
+    ex:rank "4" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/04c5682c-cc78-4ba6-84b9-918abd4810a9> a ex:TrendRecord ;
+    ex:category "Eventos deportivos" ;
+    ex:location "Mexico" ;
+    ex:query "México vs Suecia" ;
+    ex:rank "2" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/04c654c6-27ba-4ac5-a85c-818e7ab6b06a> a ex:TrendRecord ;
+    ex:category "Movies & TV" ;
+    ex:location "Pakistan" ;
+    ex:query "Bigg Boss 13" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q72207156> .
+    ex:rank "2" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/04c67307-af43-4776-9993-072bb22b000a> a ex:TrendRecord ;
+    ex:category "Searches" ;
+    ex:location "Austria" ;
+    ex:query "Red Bull Stratos" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q853860> .
+    ex:rank "3" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/04ceb736-b480-4892-839b-80a53b408830> a ex:TrendRecord ;
+    ex:category "Reseptit" ;
+    ex:location "Finland" ;
+    ex:query "Cupcakes" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q6578100> .
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/04d0baa6-de48-48ea-b318-fca1d624ebdb> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "Hungary" ;
+    ex:query "Csobot Adél" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q17361676> .
+    ex:rank "4" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/04d3936e-2bb5-4854-a57f-3ff4a4f9476c> a ex:TrendRecord ;
+    ex:category "Навіщо?" ;
+    ex:location "Ukraine" ;
+    ex:query "Клеопатра вбивала своїх коханців" ;
+    ex:rank "4" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/04d54dcc-63a6-41d0-b0c3-e4ffc28147e9> a ex:TrendRecord ;
+    ex:category "Movies" ;
+    ex:location "Romania" ;
+    ex:query "The Avengers" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q182218> .
+    ex:rank "4" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/04da8777-248d-4daa-8dfb-ac365eef3c76> a ex:TrendRecord ;
+    ex:category "Corona" ;
+    ex:location "Germany" ;
+    ex:query "Coronavirus Tipps" ;
+    ex:rank "5" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/04dea294-ae62-4048-87ca-244af4302760> a ex:TrendRecord ;
+    ex:category "Female Personalities" ;
+    ex:location "Philippines" ;
+    ex:query "Kylie Padilla" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q6451637> .
+    ex:rank "3" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/04e72019-89fe-4261-b3ab-05eb1277bcde> a ex:TrendRecord ;
+    ex:category "Celebridades" ;
+    ex:location "Costa Rica" ;
+    ex:query "Andrea Salas" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q116738261> .
+    ex:rank "5" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/04e7d89c-2fd2-4a70-ba29-17b2ecf2f582> a ex:TrendRecord ;
+    ex:category "Searches" ;
+    ex:location "India" ;
+    ex:query "EURO 2016" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q189571> .
+    ex:rank "3" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/04e95e59-722c-4c8c-83c0-f4869808f33f> a ex:TrendRecord ;
+    ex:category "Vacation Destinations (Local)" ;
+    ex:location "Philippines" ;
+    ex:query "Boracay Island" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q855235> .
+    ex:rank "3" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/04ea245f-3f05-496d-9926-5a0cee861add> a ex:TrendRecord ;
+    ex:category "Yükselen Genel Aramalar" ;
+    ex:location "Turkey" ;
+    ex:query "Elbise ne renk? " ;
+    ex:rank "5" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/04ec40f2-9487-4261-8cac-0e73cd24b055> a ex:TrendRecord ;
+    ex:category "Trending Searches" ;
+    ex:location "Belgium" ;
+    ex:query "PAUL WALKER" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q213864> .
+    ex:rank "4" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/04f0a3ef-cffb-4de9-9bc1-5a277a079482> a ex:TrendRecord ;
+    ex:category "Politycy" ;
+    ex:location "Poland" ;
+    ex:query "Joe Biden" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q6279> .
+    ex:rank "1" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/04f17836-4598-4569-9661-dbcd1b482c10> a ex:TrendRecord ;
+    ex:category "Mozifilmek" ;
+    ex:location "Hungary" ;
+    ex:query "Bosszúállók: Végjáték" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q23781155> .
+    ex:rank "5" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/04f39ad0-d9e9-477d-bf56-ac1fc64143d0> a ex:TrendRecord ;
+    ex:category "Персона року" ;
+    ex:location "Ukraine" ;
+    ex:query "Володимир Путін" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q19300851> .
+    ex:rank "5" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/04f846b8-4c54-46ee-82e3-73e2e6b15f8e> a ex:TrendRecord ;
+    ex:category "Resep" ;
+    ex:location "Indonesia" ;
+    ex:query "Tongseng" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q4272202> .
+    ex:rank "4" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/04f8f233-8e06-4413-9ecf-cb0d1052bef7> a ex:TrendRecord ;
+    ex:category "What is…?" ;
+    ex:location "Australia" ;
+    ex:query "What is a mud room" ;
+    ex:rank "5" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/04f97e48-f865-4af4-be35-f1332fe86002> a ex:TrendRecord ;
+    ex:category "Searches" ;
+    ex:location "Chile" ;
+    ex:query "Servel" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q18402672> .
+    ex:rank "1" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/04fc1684-802b-4584-a42e-6b8f67c34a4c> a ex:TrendRecord ;
+    ex:category "Найпопулярніші запити" ;
+    ex:location "Ukraine" ;
+    ex:query "Цензор нет" ;
+    ex:rank "5" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/050073c4-b888-4b2a-b28a-49dd31d38f7f> a ex:TrendRecord ;
+    ex:category "Events" ;
+    ex:location "South Africa" ;
+    ex:query "Nelson Mandela" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q8023> .
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/0504ee9a-cc14-4e11-80b9-d5cf9c6d8c8d> a ex:TrendRecord ;
+    ex:category "News" ;
+    ex:location "Philippines" ;
+    ex:query "2010 Election Result" ;
+    ex:rank "1" ;
+    ex:year "2010" .
+
+<http://example.org/trends/record/05067bf9-3ff5-410c-adf8-2ad9d8ba1e98> a ex:TrendRecord ;
+    ex:category "Músicas" ;
+    ex:location "Portugal" ;
+    ex:query "Diamonds" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q74038> .
+    ex:rank "4" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/0506e008-4a94-43c3-88c3-f054aef229d4> a ex:TrendRecord ;
+    ex:category "Fashion Labels" ;
+    ex:location "Malaysia" ;
+    ex:query "Louis Vuitton" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q191485> .
+    ex:rank "2" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/050ae18b-1495-4ce0-8135-a76f229f9fae> a ex:TrendRecord ;
+    ex:category "TV Stars" ;
+    ex:location "United Kingdom" ;
+    ex:query "Anne Kirkbride" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q4768510> .
+    ex:rank "4" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/050b4e44-4be7-4de3-8303-bcd202d9aefa> a ex:TrendRecord ;
+    ex:category "Food and Drink" ;
+    ex:location "Global" ;
+    ex:query "Picnic" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q506294> .
+    ex:rank "2" ;
+    ex:year "2009" .
+
+<http://example.org/trends/record/050fe149-22ca-4bc1-9687-000f5b5af011> a ex:TrendRecord ;
+    ex:category "Men" ;
+    ex:location "Global" ;
+    ex:query "Josh Hartnett" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q303957> .
+    ex:rank "4" ;
+    ex:year "2002" .
+
+<http://example.org/trends/record/05120c9e-5d0c-4ad7-9980-ac0361a8d977> a ex:TrendRecord ;
+    ex:category "סרטים" ;
+    ex:location "Israel" ;
+    ex:query "מהיר ועצבני 8" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q19829521> .
+    ex:rank "1" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/0513cdd5-da66-4499-a34e-0b1f22e214d2> a ex:TrendRecord ;
+    ex:category "Renginiai ir įvykiai" ;
+    ex:location "Lithuania" ;
+    ex:query "VMI deklaravimas" ;
+    ex:rank "4" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/0513da25-56a1-4484-b5d7-ccb58733fdef> a ex:TrendRecord ;
+    ex:category "News" ;
+    ex:location "United Kingdom" ;
+    ex:query "Olympic torch route" ;
+    ex:rank "4" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/051413c7-b6ec-4772-91de-88a9294c4100> a ex:TrendRecord ;
+    ex:category "TV 프로그램" ;
+    ex:location "South Korea" ;
+    ex:query "태양의 후예" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q18652415> .
+    ex:rank "1" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/051727c1-d928-4363-aff0-9e85728d7f88> a ex:TrendRecord ;
+    ex:category "Disparitions" ;
+    ex:location "France" ;
+    ex:query "Valéry Giscard d'Estaing" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q2124> .
+    ex:rank "3" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/051858ad-9944-4660-8221-abc2e3027b2e> a ex:TrendRecord ;
+    ex:category "Searches" ;
+    ex:location "Denmark" ;
+    ex:query "Ekstrabladet Skole" ;
+    ex:rank "2" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/051e2bc1-0ed0-423b-97a5-f4ae859d80fe> a ex:TrendRecord ;
+    ex:category "Song Lyrics" ;
+    ex:location "United States" ;
+    ex:query "Wrecking Ball" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q14661781> .
+    ex:rank "3" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/051fc78a-379d-4f31-8c25-1ecd623623ce> a ex:TrendRecord ;
+    ex:category "Διακοπές" ;
+    ex:location "Greece" ;
+    ex:query "Κυκλάδες" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q171132> .
+    ex:rank "3" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/05207819-c666-47a5-a6f8-49f0be7bf113> a ex:TrendRecord ;
+    ex:category "'Hvad ... ?'" ;
+    ex:location "Denmark" ;
+    ex:query "Hvad betyder supination?" ;
+    ex:rank "5" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/05235b2f-5ff8-453d-af59-c84c996b22ed> a ex:TrendRecord ;
+    ex:category "Personajes" ;
+    ex:location "Costa Rica" ;
+    ex:query "Chester Bennington" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q19198> .
+    ex:rank "2" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/05255d2f-3b03-435b-a386-202b67749bb5> a ex:TrendRecord ;
+    ex:category "Travel Destinations" ;
+    ex:location "Norway" ;
+    ex:query "Kapp Verde" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1011> .
+    ex:rank "2" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/052724c1-c062-4f63-80d6-2ea1ad7e96cb> a ex:TrendRecord ;
+    ex:category "Most Searched" ;
+    ex:location "Belgium" ;
+    ex:query "Facebook" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q355> .
+    ex:rank "1" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/0528687c-8109-4b50-88c6-98330f94b052> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "Belgium" ;
+    ex:query "Kate Middleton" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q10479> .
+    ex:rank "2" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/05291350-0247-4bb9-af99-c51a48b4e9ce> a ex:TrendRecord ;
+    ex:category "الأبحاث" ;
+    ex:location "United Arab Emirates" ;
+    ex:query "Indian Premiere League 2017" ;
+    ex:rank "1" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/052b945f-3868-4606-acf1-21f340f31a70> a ex:TrendRecord ;
+    ex:category "Diet" ;
+    ex:location "Canada" ;
+    ex:query "Plan Diet" ;
+    ex:rank "4" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/052fa934-9924-4c70-9ed3-cc828dfb612a> a ex:TrendRecord ;
+    ex:category "NBA Teams" ;
+    ex:location "United States" ;
+    ex:query "Cleveland Cavaliers" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q162990> .
+    ex:rank "1" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/05320978-1481-47c2-a2de-129bd5f89be9> a ex:TrendRecord ;
+    ex:category "Tokoh Indonesia" ;
+    ex:location "Indonesia" ;
+    ex:query "JKT 48" ;
+    ex:rank "2" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/05322311-7588-4cab-af39-c273fe6dd069> a ex:TrendRecord ;
+    ex:category "Artist/Grupp" ;
+    ex:location "Sweden" ;
+    ex:query "Sven-Bertil Taube" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q1360483> .
+    ex:rank "5" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/0532d723-3359-4774-990c-5f2c44f2f3d2> a ex:TrendRecord ;
+    ex:category "Trending Events" ;
+    ex:location "Kenya" ;
+    ex:query "World Cup 2018" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q170645> .
+    ex:rank "1" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/0533b0d9-8db8-460c-afc4-00ae30a45087> a ex:TrendRecord ;
+    ex:category "Internationale Persönlichkeiten" ;
+    ex:location "Switzerland" ;
+    ex:query "Ed Sheeran" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q47447> .
+    ex:rank "4" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/0535623e-2aa8-4c16-9f11-9405e7b07353> a ex:TrendRecord ;
+    ex:category "Películas" ;
+    ex:location "Puerto Rico" ;
+    ex:query "Wonder Woman" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q338430> .
+    ex:rank "1" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/0537fdf1-13ee-45c4-9524-e949220c7768> a ex:TrendRecord ;
+    ex:category "Koronavírus-járvány" ;
+    ex:location "Hungary" ;
+    ex:query "Koronavírus" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q84263196> .
+    ex:rank "1" ;
+    ex:year "2020" .
+
+<http://example.org/trends/record/053be661-e742-4297-9d20-d59b35497169> a ex:TrendRecord ;
+    ex:category "急上昇" ;
+    ex:location "Japan" ;
+    ex:query "イスラム国" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q2429253> .
+    ex:rank "1" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/0548b0cc-ac37-4d06-9f49-0726477d1f30> a ex:TrendRecord ;
+    ex:category "Chương Trình Truyền Hình" ;
+    ex:location "Vietnam" ;
+    ex:query "Giọng Ải Giọng Ai" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q30921011> .
+    ex:rank "2" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/054c387d-ae1a-4907-8b63-f181ec83c5fc> a ex:TrendRecord ;
+    ex:category "Movies" ;
+    ex:location "United Kingdom" ;
+    ex:query "Man of Steel" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q622769> .
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/054e6983-96df-42ce-951d-852d78318300> a ex:TrendRecord ;
+    ex:category "Yhteiskunnalliset aiheet" ;
+    ex:location "Finland" ;
+    ex:query "Mv lehti" ;
+    ex:rank "2" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/054f2a1e-9e2a-4be6-aaf4-ce35895309e5> a ex:TrendRecord ;
+    ex:category "Suchbegriffe des Jahres" ;
+    ex:location "Germany" ;
+    ex:query "Karl Lagerfeld" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q76716> .
+    ex:rank "4" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/054f92ca-5af1-4112-bcac-b060bc602a83> a ex:TrendRecord ;
+    ex:category "De som gikk bort" ;
+    ex:location "Norway" ;
+    ex:query "Anne Grete Preus" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q4768403> .
+    ex:rank "4" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/054fe911-5d25-4cec-86e1-b1c06011c45d> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "Taiwan" ;
+    ex:query "Makiyo" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q4263415> .
+    ex:rank "4" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/05575099-64d3-448a-bdc6-7e256f2a4fa0> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "Bangladesh" ;
+    ex:query "Mohammad Naim" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q49792211> .
+    ex:rank "2" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/0559911f-7524-4d9e-9296-3cf2a4e94bfe> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "Philippines" ;
+    ex:query "Whitney Houston" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q34389> .
+    ex:rank "2" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/055b8fea-c67e-46eb-a88e-bc9b3b5f8f8b> a ex:TrendRecord ;
+    ex:category "Calorie Searches" ;
+    ex:location "United States" ;
+    ex:query "Starbucks Flat White" ;
+    ex:rank "3" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/055c6ad1-5d6e-4c7c-b702-9ccad448ee26> a ex:TrendRecord ;
+    ex:category "Losses of 2014" ;
+    ex:location "United States" ;
+    ex:query "Maya Angelou" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q19526> .
+    ex:rank "4" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/055d3c3a-5655-49e2-a057-38f7bcef66a6> a ex:TrendRecord ;
+    ex:category "Norske kvinner" ;
+    ex:location "Norway" ;
+    ex:query "Ida Eide" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q56448386> .
+    ex:rank "4" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/055ee0ea-b7db-49c7-b607-7b0c3e624fd7> a ex:TrendRecord ;
+    ex:category "News Searches (Carian Berita)" ;
+    ex:location "Malaysia" ;
+    ex:query "MH370" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q15908324> .
+    ex:rank "5" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/0560d441-9ecd-4987-a776-7b281fb1632d> a ex:TrendRecord ;
+    ex:category "Soccer" ;
+    ex:location "Belgium" ;
+    ex:query "Champions League 2011" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q485002> .
+    ex:rank "3" ;
+    ex:year "2011" .
+
+<http://example.org/trends/record/05642740-9f64-4794-8a12-9e6800ab68a1> a ex:TrendRecord ;
+    ex:category "News" ;
+    ex:location "New Zealand" ;
+    ex:query "NZTA road closures" ;
+    ex:rank "2" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/0567b83f-e51e-45e9-97c1-77f1d8d24a03> a ex:TrendRecord ;
+    ex:category "Song Lyrics" ;
+    ex:location "United States" ;
+    ex:query "Anaconda lyrics" ;
+    ex:rank "2" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/056b609c-e3d7-43a7-82d3-5713e9d9eadb> a ex:TrendRecord ;
+    ex:category "People" ;
+    ex:location "Sri Lanka" ;
+    ex:query "Melania Trump" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q432473> .
+    ex:rank "2" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/056c0187-6086-4e99-b0d6-9b69156ea29c> a ex:TrendRecord ;
+    ex:category "Trending Searches" ;
+    ex:location "Singapore" ;
+    ex:query "PSI Singapore" ;
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/05710d62-4640-4495-831d-d7c8b02daef8> a ex:TrendRecord ;
+    ex:category "Red Carpet Appearances" ;
+    ex:location "United States" ;
+    ex:query "Madonna Red Carpet" ;
+    ex:rank "4" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/05735dbe-b965-4b61-b3fd-8533f22d5c4a> a ex:TrendRecord ;
+    ex:category "Najčešće pretraživane osobe u Hrvatskoj" ;
+    ex:location "Croatia" ;
+    ex:query "Tomislav Salopek" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q20526000> .
+    ex:rank "2" ;
+    ex:year "2015" .
+
+<http://example.org/trends/record/05752f0e-b342-4dbd-85a4-34f147262935> a ex:TrendRecord ;
+    ex:category "Nederlanders" ;
+    ex:location "Netherlands" ;
+    ex:query "André Hazes" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q519588> .
+    ex:rank "4" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/057b63f8-a23a-40c7-b085-f14f40348715> a ex:TrendRecord ;
+    ex:category "Miten/Kuinka...?" ;
+    ex:location "Finland" ;
+    ex:query "Miten saada unta" ;
+    ex:rank "3" ;
+    ex:year "2017" .
+
+<http://example.org/trends/record/057bc120-ab80-4c53-8bd5-970e9b7eb256> a ex:TrendRecord ;
+    ex:category "Recipes" ;
+    ex:location "Italy" ;
+    ex:query "Crostata marmellata" ;
+    ex:rank "1" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/057ccb63-ca61-4585-af2e-9dabd77d1ad5> a ex:TrendRecord ;
+    ex:category "Gajet" ;
+    ex:location "Malaysia" ;
+    ex:query "Huawei P30 Pro" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q62793603> .
+    ex:rank "3" ;
+    ex:year "2019" .
+
+<http://example.org/trends/record/057d4a98-fd54-4759-8fb5-181c851f9a5d> a ex:TrendRecord ;
+    ex:category "TV Shows" ;
+    ex:location "United States" ;
+    ex:query "Orange is the New Black" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q7099650> .
+    ex:rank "3" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/058235c0-1f2a-4831-bb3d-e549b418a8ad> a ex:TrendRecord ;
+    ex:category "What is" ;
+    ex:location "Kenya" ;
+    ex:query "What is transcoding" ;
+    ex:rank "1" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/05877ca7-fd89-47b1-89c5-e8080dff9643> a ex:TrendRecord ;
+    ex:category "Nữ Nghệ sĩ Việt" ;
+    ex:location "Vietnam" ;
+    ex:query "Phương Mỹ Chi" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q16158535> .
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/058a643e-165c-4470-a866-bc80f304ea21> a ex:TrendRecord ;
+    ex:category "Shoe Brands" ;
+    ex:location "United States" ;
+    ex:query "TOMS" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q21450370> .
+    ex:rank "1" ;
+    ex:year "2013" .
+
+<http://example.org/trends/record/058ce5f1-5ad9-40ed-acb9-52b198498d3e> a ex:TrendRecord ;
+    ex:category "คำค้นหายอดนิยมประจำปี" ;
+    ex:location "Thailand" ;
+    ex:query "Descendants of the Sun" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q18652415> .
+    ex:rank "1" ;
+    ex:year "2016" .
+
+<http://example.org/trends/record/058d7bdd-6faa-4b48-987b-aadf9d54b78d> a ex:TrendRecord ;
+    ex:category "Sporting Events" ;
+    ex:location "Ireland" ;
+    ex:query "Ireland vs. New Zealand" ;
+    ex:rank "2" ;
+    ex:year "2018" .
+
+<http://example.org/trends/record/058e72ee-6cfd-4036-80b4-cf3e34534994> a ex:TrendRecord ;
+    ex:category "Hawker Centres" ;
+    ex:location "Singapore" ;
+    ex:query "Maxwell Hawker Centre" ;
+    ex:rank "1" ;
+    ex:year "2008" .
+
+<http://example.org/trends/record/05910570-dd9c-4542-b48b-edfdfb2e0a01> a ex:TrendRecord ;
+    ex:category "Hybrid Card" ;
+    ex:location "United States" ;
+    ex:query "BMW Hybrid" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q100337637> .
+    ex:rank "4" ;
+    ex:year "2012" .
+
+<http://example.org/trends/record/0592fbe4-1351-4f2a-9fba-48bac2e644a4> a ex:TrendRecord ;
+    ex:category "Bandas y músicos" ;
+    ex:location "Argentina" ;
+    ex:query "Violetta" ;
+    ex:wikidata <http://www.wikidata.org/entity/Q16282508> .
+    ex:rank "3" ;
+    ex:year "2014" .
+
+<http://example.org/trends/record/0593961e-7b43-4f50-b8b9-1973c9d9ce48> a ex:TrendRecord ;
+    ex:category "Les films" ;
+    ex:location "France" ;
+    ex:query "Once Upon A Time In Hollywood" ;

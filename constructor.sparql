@@ -9,12 +9,12 @@ CONSTRUCT {
           ex:rank ?rank ;
           ex:query ?query .
 }
-FROM <file:trends.csv#encoding=utf-8>
+FROM <file:trends.csv#encoding=UTF-8>
 WHERE {
-  BIND(IRI(CONCAT("http://example.org/trends/record/", ENCODE_FOR_URI(?query))) AS ?record)
-  BIND(?location AS ?location)
-  BIND(?year AS ?year)
-  BIND(?category AS ?category)
-  BIND(?rank AS ?rank)
-  BIND(?query AS ?query)
+  BIND(IRI(CONCAT("http://example.org/trends/record/", STRUUID())) AS ?record)
+  BIND(STR(?location) AS ?location)
+  BIND(STR(?year) AS ?year)
+  BIND(STR(?category) AS ?category)
+  BIND(STR(?rank) AS ?rank)
+  BIND(STR(?query) AS ?query)
 }
