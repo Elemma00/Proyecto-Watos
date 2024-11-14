@@ -28,6 +28,6 @@ with open('trends_processed.csv', mode='r', encoding='utf-8') as csvfile:
         g.add((record_uri, EX.query, Literal(row['query'])))
 
 # Guarda el gráfico en un archivo RDF
-g.serialize(destination='trends.rdf', format='turtle')
+g.serialize(destination='trends.ttl', format='turtle')
 
 print("Archivo RDF generado correctamente.")

@@ -4,7 +4,7 @@ import requests
 with open('trends.rdf', 'r', encoding='utf-8') as f:
     lines = f.readlines()
 
-with open('trends_updated.rdf', 'w', encoding='utf-8') as f:
+with open('trends_updated.ttl', 'w', encoding='utf-8') as f:
     for line in lines:
         f.write(line)
         # if the line contains a query, extract the name of the query
