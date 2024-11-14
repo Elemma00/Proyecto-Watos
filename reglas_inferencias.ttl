@@ -1,31 +1,9 @@
-@prefix ex: <http://example.org/trends#> .
+@prefix ex: <http://example.org/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-# Definición de clases y propiedades
-ex:TrendRecord a rdfs:Class .
-ex:hasPopularityInYear a rdf:Property .
-ex:belongsToCategory a rdf:Property .
-ex:hasLocation a rdf:Property .
-ex:hasRank a rdf:Property .
 
-# Reglas de inferencia
-[] a rdf:Statement ;
-   rdf:subject ex:TrendRecord ;
-   rdf:predicate rdfs:subClassOf ;
-   rdf:object ex:hasPopularityInYear .
-
-[] a rdf:Statement ;
-   rdf:subject ex:TrendRecord ;
-   rdf:predicate rdfs:subClassOf ;
-   rdf:object ex:belongsToCategory .
-
-[] a rdf:Statement ;
-   rdf:subject ex:TrendRecord ;
-   rdf:predicate rdfs:subClassOf ;
-   rdf:object ex:hasLocation .
-
-[] a rdf:Statement ;
-   rdf:subject ex:TrendRecord ;
-   rdf:predicate rdfs:subClassOf ;
-   rdf:object ex:hasRank .
+# Definir la nueva propiedad
+ex:hasMultipleYears a rdf:Property .
