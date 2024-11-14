@@ -1,9 +1,43 @@
-@prefix ex: <http://example.org/> .
+@prefix ex: <http://example.org/trends#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+# Jerarquía de tendencias
+ex:GlobalTrendRecord rdfs:subClassOf ex:TrendRecord .
+ex:LocalTrendRecord rdfs:subClassOf ex:TrendRecord .
+ex:HistoricalTrend rdfs:subClassOf ex:TrendRecord .
+ex:RecentTrend rdfs:subClassOf ex:TrendRecord .
 
-# Definir la nueva propiedad
-ex:hasMultipleYears a rdf:Property .
+# Propiedades simétricas
+ex:relatedLocation a owl:SymmetricProperty ;
+    rdfs:domain ex:TrendRecord ;
+    rdfs:range ex:TrendRecord .
+
+ex:relatedCategory a owl:SymmetricProperty ;
+    rdfs:domain ex:TrendRecord ;
+    rdfs:range ex:TrendRecord .
+
+# Propiedades transitivas
+ex:hasParentCategory a owl:TransitiveProperty ;
+    rdfs:domain ex:Category ;
+    rdfs:range ex:Category .
+
+# Equivalencias
+ex:GlobalTrend owl:equivalentClass [
+    a owl:Restriction ;
+    owl:onProperty ex:location ;
+    owl:hasValue "Global"
+] .
+
+# Reglas inversas
+ex:hasTrend owl:inverseOf ex:isTrendOf .
+ex:hasRelatedTrend owl:inverseOf ex:isRelatedTo .
+
+# Restricciones de cardinalidad
+ex:TrendRecord rdfs:subClassOf [
+    a owl:Restriction ;
+    owl:onProperty ex:year ;
+    owl:cardinality 1
+] .
