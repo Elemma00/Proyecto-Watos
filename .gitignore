@@ -1,9 +1,12 @@
 
 # Ignorar todo dentro de la carpeta run de Apache Fuseki
 apache-jena-fuseki-5.2.0/run/*
+rdf/*
 
 # Excepto la carpeta configuration y su contenido
 !apache-jena-fuseki-5.2.0/run/configuration/
 !apache-jena-fuseki-5.2.0/run/configuration/*
+
+
 
 .venv
