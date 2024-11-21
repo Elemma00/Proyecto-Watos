@@ -4,3 +4,4 @@ apache-jena-fuseki-5.2.0/run/*
 rdf/*
 
 .venv
+__pycache__
