@@ -67,7 +67,7 @@ WHERE {
 }
 LIMIT 10
 
-################### Query 4 ###################
+################### Query 4 ################### Grafico de genero
 SELECT ?trendyear ?genderLabel (COUNT(?record) AS ?count)
 WHERE {
     # Datos locales
@@ -89,7 +89,7 @@ WHERE {
 GROUP BY ?trendyear ?genderLabel
 ORDER BY ?trendyear ?genderLabel
 
-################### Query 5 ###################
+################### Query 5 ################### Grafico de tendencias en USA
 
 # Trends relacionados con Estados Unidos por año
 SELECT ?trendyear ?usEntity (COUNT(?record) AS ?count)
