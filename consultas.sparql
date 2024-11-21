@@ -71,8 +71,7 @@ LIMIT 10
 SELECT ?trendyear ?genderLabel (COUNT(?record) AS ?count)
 WHERE {
     # Datos locales
-    ?record a ex:TrendRecord ;
-            ex:location "Global" ;
+    ?record a ex:GlobalTrend ;
             ex:year ?trendyear ;
             ex:wikidata ?wikidata .
 
